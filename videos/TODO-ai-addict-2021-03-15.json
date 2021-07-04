@@ -23,7 +23,7 @@
     {"time": "6:52", "codes": ["CD"]},
     {"time": "7:17", "codes": ["DD"]},
     {"time": "7:34", "codes": ["CD"]},
-    {"time": "8:18", "codes": ["MUST"]},
+    {"time": "8:18", "codes": ["MUST", "DD"]},
     {"time": "8:52", "codes": ["YSLOW"]},
     {"time": "9:11", "codes": ["BUS"]},
     {"time": "9:43", "codes": ["DD"]},
