@@ -1,5 +1,12 @@
 # fsd-events
-Compilation of events occuring in Tesla FSD videos
+
+Compilation of events occuring in Tesla FSD videos.
+
+Criteria to include videos:
+- Mostly 1x, uncut footage
+- No music
+- Driver shares when they press the accelerator
+- Driver shares their thoughts and observations
 
 ## Codes
 
