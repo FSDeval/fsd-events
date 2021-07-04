@@ -5,5 +5,6 @@ Compilation of events occuring in Tesla FSD videos
 
 Code | Description
 --- | ---
-SDU | car slows down unnecessarily
 ACC | driver taps accelerator
+SDU | car slows down unnecessarily
+TOX | car acts drunk
