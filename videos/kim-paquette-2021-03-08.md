@@ -26,5 +26,6 @@ time | event
 12:13 | SDU, DD
 13:11 | DD
 13:30 | SU
-14:14 | SU
+14:03 | TOX
+14:12 | SU
 14:22 | CD or DD
