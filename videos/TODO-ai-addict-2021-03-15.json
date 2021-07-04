@@ -16,7 +16,6 @@
     {"time": "2:31", "codes": ["GAS"]},
     {"time": "2:37", "codes": ["YSTOP"]},
     {"time": "2:55", "codes": ["TWL", "SWL"]},
-    {"time": "3:15", "codes": ["car beeps because car in right lane too close"]},
     {"time": "4:54", "codes": ["CTI"]},
     {"time": "5:09", "codes": ["PTI"]},
     {"time": "5:44", "codes": ["GAS", "DRUNK"]},
