@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-03-06",
+    "location": "Chicago",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=2RA3Fy7nGaY",
+    "video-length": "15:50"
+  },
+  "events": [
+    {"time": "1:47", "codes": ["DD"]},
+    {"time": "2:05", "codes": ["DD"]},
+    {"time": "4:32", "codes": ["DD"]},
+    {"time": "5:48", "codes": ["car turns right from left lane"]},
+    {"time": "6:41", "codes": ["SWL"]},
+    {"time": "7:59", "codes": ["SDU"]},
+    {"time": "11:13", "codes": ["TOX"]},
+    {"time": "11:49", "codes": ["TOX", "DD"]},
+    {"time": "14:24", "codes": ["CTI", "DD"]}
+  ]
+}
