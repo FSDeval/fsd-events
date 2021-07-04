@@ -12,6 +12,7 @@ Criteria to include videos:
 
 Code | Importance | Description
 --- | --- | ---
+D | 1 | disengagement (not clear whether CD or DD)
 CD | 1 | car disengages
 DD | 1 | driver disengages
 RED | 1 | car crosses on red
