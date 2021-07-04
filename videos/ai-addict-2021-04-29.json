@@ -17,6 +17,7 @@
     {"time": "3:09", "codes": ["RED"]},
     {"time": "4:01", "codes": ["TOX"]},
     {"time": "4:17", "codes": ["DD"]},
-    {"time": "6:46", "codes": ["driver changes lanes"]},
+    {"time": "5:09", "codes": ["SDU"]},
+    {"time": "6:46", "codes": ["FLC"]},
   ]
 }
