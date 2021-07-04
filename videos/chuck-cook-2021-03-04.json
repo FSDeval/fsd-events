@@ -12,7 +12,6 @@
     {"time": "5:21", "codes": ["TOX"]},
     {"time": "6:57", "codes": ["SU"]},
     {"time": "7:12", "codes": ["SU"]},
-    {"time": "7:37", "codes": ["car turns right from left lane"]},
     {"time": "8:21", "codes": ["SU"]},
     {"time": "8:51", "codes": ["SDU"]},
     {"time": "13:25", "codes": ["SU", "ACC"]},
