@@ -25,6 +25,6 @@ time | event
 10:55 | DPL
 12:13 | SDU, DD
 13:11 | DD
-13:31 | SU
+13:30 | SU
 14:14 | SU
 14:22 | CD or DD
