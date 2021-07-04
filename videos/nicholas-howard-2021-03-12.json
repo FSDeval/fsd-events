@@ -11,7 +11,7 @@
     {"time": "1:15", "codes": ["SDU"]},
     {"time": "1:36", "codes": ["DD"]},
     {"time": "4:02", "codes": ["ACC"]},
-    {"time": "6:12", "codes": ["ACC"]},
+    {"time": "6:10", "codes": ["ACC"]},
     {"time": "6:41", "codes": ["DD"]},
     {"time": "6:53", "codes": ["car drives over speed bump at 33 mph"]},
     {"time": "7:34", "codes": ["DD"]}
