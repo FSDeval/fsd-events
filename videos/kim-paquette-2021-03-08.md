@@ -19,7 +19,7 @@ time | event
 6:21 | CLI
 8:22 | MT
 8:29 | CD
-8:49 | MT
+8:47 | MT
 8:55 | CD
 9:42 | ACC
 10:55 | DPL
