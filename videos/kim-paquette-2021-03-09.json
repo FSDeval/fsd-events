@@ -20,7 +20,7 @@
     {"time": "5:51", "codes": ["DD"]},
     {"time": "8:31", "codes": ["DD"]},
     {"time": "8:49", "codes": ["ACC"]},
-    {"time": "9:05", "codes": ["ACC"]},
+    {"time": "9:05", "codes": ["ACC", "D"]},
     {"time": "10:05", "codes": ["DRS"]},
     {"time": "12:56", "codes": ["ACC"]},
     {"time": "13:32", "codes": ["DD"]}
