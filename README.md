@@ -13,6 +13,7 @@ SDU | 2 | car slows down unnecessarily
 SU | 2 | car stops unnecessarily
 TWL | 2 | car turns into wrong lane
 CLI | 3 | car changes lane in intersection
+MT | 3 | car misses turn
 SA | 3 | car stops abruptly
 SWL | 3 | car crosses solid white line
 TOX | 3 | car acts drunk
