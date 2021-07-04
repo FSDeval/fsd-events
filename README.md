@@ -13,6 +13,7 @@ Criteria to include videos:
 
 Code | Importance | Description
 --- | --- | ---
+CTI | 1 | car turns into incoming lane
 D | 1 | disengagement (not clear whether CD or DD)
 CD | 1 | car disengages
 DD | 1 | driver disengages
