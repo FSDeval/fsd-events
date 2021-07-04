@@ -21,7 +21,7 @@ time | event
 8:29 | CD
 8:47 | MT
 8:55 | CD
-9:42 | ACC
+9:40 | ACC
 10:55 | DPL
 12:14 | CD
 13:11 | DD
