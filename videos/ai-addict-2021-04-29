@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "AI Addict",
+    "date": "2021-04-29",
+    "location": "Silicon Valley",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=0e7TVCRQEcQ",
+    "video-length": "10:26"
+  },
+  "events": [
+    {"time": "0:37", "codes": ["CD"]},
+    {"time": "1:03", "codes": ["CD"]},
+    {"time": "1:35", "codes": ["CD"]},
+    {"time": "2:13", "codes": ["DD"]},
+    {"time": "3:09", "codes": ["RED"]},
+    {"time": "4:01", "codes": ["TOX"]},
+    {"time": "4:18", "codes": ["DD"]},
+    {"time": "6:46", "codes": ["driver changes lanes"]},
+  ]
+}
