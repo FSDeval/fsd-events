@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "user": "Kim Paquette",
+    "date": "2021-03-09",
+    "location": "Newport, RI",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=Xq4vkhoXcHY",
+    "video-length": "16:58"
+  },
+  "events": [
+    {"time": "0:41", "codes": ["DD"]},
+    {"time": "1:55", "codes": ["CLI"]},
+    {"time": "3:42", "codes": ["CLI"]},
+    {"time": "3:46", "codes": ["SU", "ACC"]},
+    {"time": "4:36", "codes": ["CD"]},
+    {"time": "4:51", "codes": ["SU"]},
+    {"time": "5:10", "codes": ["DD"]},
+    {"time": "5:33", "codes": ["DD"]},
+    {"time": "5:51", "codes": ["DD"]},
+    {"time": "8:31", "codes": ["DD"]},
+    {"time": "8:49", "codes": ["ACC"]},
+    {"time": "9:05", "codes": ["ACC"]},
+    {"time": "10:05", "codes": ["DRS"]},
+    {"time": "12:56", "codes": ["ACC"]},
+    {"time": "13:32", "codes": ["DD"]}
+  ]
+}
