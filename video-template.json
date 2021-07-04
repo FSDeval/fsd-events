@@ -8,7 +8,7 @@
     "video-length": "mm:ss"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1", "CODE2"]},
-    {"time": "mm:ss", "codes": ["CODE3"]}
+    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "mm:ss", "codes": ["CODE2", "CODE3"]}
   ]
 }
