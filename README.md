@@ -32,4 +32,4 @@ DRS | 3 | driver reduces speed
 MT | 3 | car misses turn
 SA | 3 | car stops abruptly
 SWL | 3 | car crosses solid white line
-TOX | 3 | car acts drunk
+TOX, DRUNK | 3 | car acts drunk
