@@ -17,7 +17,7 @@ time | event
 4:33 | SDU
 5:55 | SDU
 6:21 | CLI
-8:24 | MT
+8:22 | MT
 8:31 | CD
 8:49 | MT
 8:55 | CD
