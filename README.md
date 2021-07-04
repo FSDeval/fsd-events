@@ -7,6 +7,7 @@ Code | Importance | Description
 --- | --- | ---
 CD | 1 | car disengages
 DD | 1 | driver disengages
+RED | 1 | car crosses on red
 ACC | 2 | driver taps accelerator
 SDU | 2 | car slows down unnecessarily
 SU | 2 | car stops unnecessarily
