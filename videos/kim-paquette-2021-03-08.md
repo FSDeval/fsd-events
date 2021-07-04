@@ -12,7 +12,7 @@ Link: https://www.youtube.com/watch?v=dTY9KX16W_Q
 
 time | event
 --- | ---
-435 | SDU
+4:35 | SDU
 5:55 | SDU
 6:21 | CLI
 8:24 | MT
