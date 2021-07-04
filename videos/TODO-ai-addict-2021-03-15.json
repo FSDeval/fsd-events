@@ -1,27 +1,41 @@
-https://www.youtube.com/watch?v=antLneVlxcs [not live speed]
-1:00 - DD to turn left
-1:56 - DD to avoid crossing plain lines
-2:08 - CD during left turn
-2:31 - ACC to turn left at traffic light
-2:37 - car comes to full stop after turning left
-2:55 - TWL, crosses plain lane
-3:15 - car beeps because car in right lane too close
-4:54 - car drives to wrong side of road, returns to correct side
-5:09 - car drives on other side of road, close to oncoming car
-5:44 - ACC because being honked at; "TOX"
-6:23 - car turns left slowly, oncoming cars slow down; "oh god go go go"
-6:52 - CD before unprotected left turn
-7:17 - DD to avoid turning right on red
-7:40 - CD and stops
-8:18 - car goes straight through interesection from turn left only lane
-8:52 - car drives slowly (down to 1 mph) around double parked truck + cones
-9:11 - car turns right into bus only lane
-9:43 - DD to avoid wheel hitting curb
-10:27 - ACC because being honked at
-10:39 - car continues onto opposite lane and disengages
-11:00 - car stops behind double parked cars, DD
-11:23 - ACC to cross stop sign intersection
-11:45 - ACC to turn left at intersection
-12:13 - oncoming car slows down; "the guy thew his arms up"
-12:33 - DD to avoid hitting car; "oh god"
-12:49 - DD to avoid driving into fence
+{
+  "metadata": {
+    "user": "AI Addict",
+    "date": "2021-03-15",
+    "location": "Oakland",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=antLneVlxcs",
+    "video-length": "13:30",
+    "comment": "not strictly 1x speed"
+  },
+  "events": [
+    {"time": "1:00", "codes": ["DD"]},
+    {"time": "1:56", "codes": ["DD"]},
+    {"time": "2:08", "codes": ["CD"]},
+    {"time": "2:31", "codes": ["ACC"]},
+    {"time": "2:37", "codes": ["SU"]},
+    {"time": "2:55", "codes": ["TWL", "SWL"]},
+    {"time": "3:15", "codes": ["car beeps because car in right lane too close"]},
+    {"time": "4:54", "codes": ["CTI"]},
+    {"time": "5:09", "codes": ["PTI"]},
+    {"time": "5:44", "codes": ["ACC", "TOX"]},
+    {"time": "6:23", "codes": ["MAC"]},
+    {"time": "6:52", "codes": ["CD"]},
+    {"time": "7:17", "codes": ["DD"]},
+    {"time": "7:40", "codes": ["CD"]},
+    {"time": "8:18", "codes": ["car goes straight through interesection from turn left only lane"]},
+    {"time": "8:52", "codes": ["SDU"]},
+    {"time": "9:11", "codes": ["BUS"]},
+    {"time": "9:43", "codes": ["DD"]},
+    {"time": "10:27", "codes": ["ACC"]},
+    {"time": "10:39", "codes": ["CTI", "CD"]},
+    {"time": "11:00", "codes": ["SU", "DD"]},
+    {"time": "11:23", "codes": ["ACC"]},
+    {"time": "11:45", "codes": ["ACC"]},
+    {"time": "12:13", "codes": ["MAC"]},
+    {"time": "12:33", "codes": ["DD"]},
+    {"time": "12:49", "codes": ["DD"]},
+    {"time": "mm:ss", "codes": ["CODE2"]},
+    {"time": "mm:ss", "codes": ["CODE2"]},
+  ]
+}
