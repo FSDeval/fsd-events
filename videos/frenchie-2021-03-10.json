@@ -24,6 +24,6 @@
     {"time": "16:02", "codes": ["TWL"]},
     {"time": "16:52", "codes": ["SA"]},
     {"time": "18:46", "codes": ["TOX"]},
-    {"time": "20:34", "codes": ["TOX", "DRS"]},
+    {"time": "20:34", "codes": ["TOX", "DRS"]}
   ]
 }
