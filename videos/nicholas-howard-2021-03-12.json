@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "Nicholas Howard",
+    "date": "2021-03-12",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=CUQ_ntUcIPg",
+    "video-length": "8:15"
+  },
+  "events": [
+    {"time": "1:15", "codes": ["SDU"]},
+    {"time": "1:36", "codes": ["DD"]},
+    {"time": "4:02", "codes": ["ACC"]},
+    {"time": "6:12", "codes": ["ACC"]},
+    {"time": "6:41", "codes": ["DD"]},
+    {"time": "6:53", "codes": ["car drives over speed bump at 33 mph"]},
+    {"time": "7:34", "codes": ["DD"]}
+  ]
+}
