@@ -13,11 +13,11 @@ Criteria to include videos:
 
 Codes | Importance | Description
 --- | --- | ---
+AVOID | 1 | car causes other drivers to maneuver to avoid collision
 CTI | 1 | car drives into incoming lane
 D | 1 | disengagement (not clear whether CD or DD)
 CD | 1 | car disengages
 DD | 1 | driver disengages
-MAC | 1 | car causes other drivers to maneuver to avoid collision
 RED | 1 | car crosses on red
 ACC, GAS | 2 | driver taps accelerator
 FLC | 2 | driver forces lane change
