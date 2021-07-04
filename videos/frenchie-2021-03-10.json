@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-03-10",
+    "location": "Chicago Downtown",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=QjwbRiVQ34s",
+    "video-length": "21:22"
+  },
+  "events": [
+    {"time": "1:19", "codes": ["SDU"]},
+    {"time": "2:13", "codes": ["SDU"]},
+    {"time": "4:09", "codes": ["CLI"]},
+    {"time": "4:23", "codes": ["DD"]},
+    {"time": "5:47", "codes": ["SDU"]},
+    {"time": "7:40", "codes": ["DD"]},
+    {"time": "8:06", "codes": ["TOX"]},
+    {"time": "9:25", "codes": ["DD"]},
+    {"time": "10:10", "codes": ["SWL"]},
+    {"time": "10:59", "codes": ["DD"]},
+    {"time": "11:12", "codes": ["SU", "DD"]},
+    {"time": "13:53", "codes": ["CD"]},
+    {"time": "15:32", "codes": ["DD"]},
+    {"time": "16:02", "codes": ["TWL"]},
+    {"time": "16:52", "codes": ["SA"]},
+    {"time": "18:46", "codes": ["TOX"]},
+    {"time": "20:34", "codes": ["TOX", "DRS"]},
+  ]
+}
