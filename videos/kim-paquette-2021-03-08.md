@@ -13,6 +13,7 @@ Video length: 14:37
 
 time | event
 --- | ---
+1:59 | SDU
 4:35 | SDU
 5:55 | SDU
 6:21 | CLI
