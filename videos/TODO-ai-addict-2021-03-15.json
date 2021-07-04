@@ -22,7 +22,7 @@
     {"time": "6:23", "codes": ["AVOID"]},
     {"time": "6:52", "codes": ["CD"]},
     {"time": "7:17", "codes": ["DD"]},
-    {"time": "7:40", "codes": ["CD"]},
+    {"time": "7:34", "codes": ["CD"]},
     {"time": "8:18", "codes": ["car goes straight through interesection from turn left only lane"]},
     {"time": "8:52", "codes": ["YSLOW"]},
     {"time": "9:11", "codes": ["BUS"]},
