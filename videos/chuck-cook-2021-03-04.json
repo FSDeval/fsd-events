@@ -14,7 +14,7 @@
     {"time": "7:12", "codes": ["SU"]},
     {"time": "8:21", "codes": ["SU"]},
     {"time": "8:51", "codes": ["SDU"]},
-    {"time": "13:25", "codes": ["SU", "ACC"]},
+    {"time": "13:25", "codes": ["SU", "ACC", "DD"]},
     {"time": "16:35", "codes": ["SDU"]},
     {"time": "17:58", "codes": ["SDU"]},
     {"time": "18:09", "codes": ["SDU", "ACC"]}
