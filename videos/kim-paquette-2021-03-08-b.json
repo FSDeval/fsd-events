@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "Kim Paquette",
+    "date": "2021-03-08",
+    "location": "Newport, RI",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=zafOEZrKZ1c",
+    "video-length": "10:33",
+  },
+  "events": [
+    {"time": "2:32", "events": ["ACC"]},
+    {"time": "2:59", "events": ["ACC"]},
+    {"time": "3:08", "events": ["ACC"]},
+    {"time": "5:23", "events": ["ACC"]},
+    {"time": "10:15", "events": ["DD"]},
+  ]
+}
