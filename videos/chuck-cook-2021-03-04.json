@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-03-04",
+    "location": "Florida",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=1t4w18GqSXQ",
+    "video-length": "25:55"
+  },
+  "events": [
+    {"time": "0:34", "codes": ["DD"]},
+    {"time": "5:21", "codes": ["TOX"]},
+    {"time": "6:57", "codes": ["SU"]},
+    {"time": "7:12", "codes": ["SU"]},
+    {"time": "7:37", "codes": ["car turns right from left lane"]},
+    {"time": "8:21", "codes": ["SU"]},
+    {"time": "8:51", "codes": ["SDU"]},
+    {"time": "13:25", "codes": ["SU", "ACC"]},
+    {"time": "16:35", "codes": ["SDU"]},
+    {"time": "17:58", "codes": ["SDU"]},
+    {"time": "18:09", "codes": ["SDU", "ACC"]}
+  ]
+}
