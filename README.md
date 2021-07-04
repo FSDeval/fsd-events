@@ -30,6 +30,7 @@ CLI | 3 | car changes lane in intersection
 DPL | 3 | car drives in parking lane
 DRS | 3 | driver reduces speed
 MT | 3 | car misses turn
+MUST | 3 | car drives straight through in a turn-only lane
 SA | 3 | car stops abruptly
 SWL | 3 | car crosses solid white line
 TOX, DRUNK | 3 | car acts drunk
