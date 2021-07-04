@@ -23,7 +23,7 @@ time | event
 8:55 | CD
 9:40 | ACC
 10:55 | DPL
-12:14 | CD
+12:14 | SDU, DD
 13:11 | DD
 13:31 | SU
 14:14 | SU
