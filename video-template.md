@@ -6,6 +6,7 @@ Date:
 Location:
 FSD version:
 Link:
+Video length:
 ```
 
 # Events
