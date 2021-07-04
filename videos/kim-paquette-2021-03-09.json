@@ -24,6 +24,6 @@
     {"time": "9:15", "codes": ["TOX"]},
     {"time": "9:59", "codes": ["DRS"]},
     {"time": "12:56", "codes": ["ACC"]},
-    {"time": "13:32", "codes": ["DD"]}
+    {"time": "13:32", "codes": ["CD"]}
   ]
 }
