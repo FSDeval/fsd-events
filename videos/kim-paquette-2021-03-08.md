@@ -6,6 +6,7 @@ Date: 2021/03/08
 Location: Newport, RI
 FSD version: 8.2 (2021.4.11.1)
 Link: https://www.youtube.com/watch?v=dTY9KX16W_Q
+Video length: 14:37
 ```
 
 # Events
