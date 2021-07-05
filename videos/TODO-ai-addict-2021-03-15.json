@@ -31,7 +31,7 @@
     {"time": "10:39", "codes": ["CWWAY", "CD"]},
     {"time": "11:00", "codes": ["YSTOP", "DD"]},
     {"time": "11:23", "codes": ["GAS"]},
-    {"time": "11:45", "codes": ["GAS"]},
+    {"time": "11:43", "codes": ["YSTOP", "GAS"]},
     {"time": "12:13", "codes": ["AVOID"]},
     {"time": "12:33", "codes": ["DD"]},
     {"time": "12:49", "codes": ["DD"]}
