@@ -1,9 +1,20 @@
-https://www.youtube.com/watch?v=X0fpQ8XEAJA
-1:52 - ACC
-6:32 - SU
-14:37 - SWL
-14:52 - ACC
-15:24 - ACC
-17:55 - car activates spurious blinker
-18:42 - ACC
-20:25 - ACC
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-03-26",
+    "location": "Florida",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=X0fpQ8XEAJA",
+    "video-length": "30:37"
+  },
+  "events": [
+    {"time": "1:52", "codes": ["GAS"]},
+    {"time": "6:32", "codes": ["YSTOP"]},
+    {"time": "14:37", "codes": ["SWL"]},
+    {"time": "14:52", "codes": ["GAS"]},
+    {"time": "15:24", "codes": ["GAS"]},
+    {"time": "17:55", "codes": ["BLINK"]},
+    {"time": "18:42", "codes": ["GAS"]},
+    {"time": "20:25", "codes": ["GAS"]}
+  ]
+}
