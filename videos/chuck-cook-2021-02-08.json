@@ -14,7 +14,7 @@
     {"time": "14:44", "codes": ["DD"]},
     {"time": "16:06", "codes": ["YSLOW"]},
     {"time": "16:21", "codes": ["YSLOW"]},
-    {"time": "17:18", "codes": ["car does not slow down to speed limit"]},
+    {"time": "17:18", "codes": ["2FAST"]},
     {"time": "18:10", "codes": ["ACC"]}
   ]
 }
