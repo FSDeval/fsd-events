@@ -10,7 +10,7 @@
   "events": [
     {"time": "1:13", "codes": ["PWWAY"], "comment": "'this guy waved us over like this because we were kind of driving in the middle of the road'"},
     {"time": "2:08", "codes": ["PWWAY"], "comment": "'like right now maybe i should disengage'"},
-    {"time": "14:16", "codes": ["GAS"]},
+    {"time": "14:14", "codes": ["GAS"]},
     {"time": "15:36", "codes": ["GAS"]},
     {"time": "18:41", "codes": ["DD"]},
     {"time": "19:17", "codes": ["GAS"]},
