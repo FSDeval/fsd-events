@@ -34,6 +34,7 @@
     {"time": "11:43", "codes": ["YSTOP", "GAS"]},
     {"time": "12:13", "codes": ["AVOID"]},
     {"time": "12:33", "codes": ["DD"]},
-    {"time": "12:49", "codes": ["DD"]}
+    {"time": "12:49", "codes": ["DD"]},
+    {"time": "13:11", "codes": ["DRUNK"]}
   ]
 }
