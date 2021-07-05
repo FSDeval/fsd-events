@@ -5,7 +5,7 @@
     "location": "Florida",
     "fsd-version": "8.1 (2020.48.35.7)",
     "video-link": "https://www.youtube.com/watch?v=Alq59hvu_IY",
-    "video-length": "mm:ss"
+    "video-length": "22:57"
   },
   "events": [
     {"time": "4:03", "codes": ["DD"], "comment": "car got stuck behind a parked bus"},
