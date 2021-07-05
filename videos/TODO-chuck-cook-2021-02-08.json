@@ -1,7 +1,18 @@
-https://www.youtube.com/watch?v=Alq59hvu_IY
-4:03 - DD (after waiting >1 min behind parked bus)
-6:45 - DD after 2 issues
-12:19 - ACC
-14:44 - DD
-17:18 - car does not slow down to speed limit
-18:10 - ACC
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-02-08",
+    "location": "Florida",
+    "fsd-version": "8.1 (2020.48.35.7)",
+    "video-link": "https://www.youtube.com/watch?v=Alq59hvu_IY",
+    "video-length": "mm:ss"
+  },
+  "events": [
+    {"time": "4:03", "codes": ["DD"]},
+    {"time": "6:45", "codes": ["DD"]},
+    {"time": "12:19", "codes": ["GAS"]},
+    {"time": "14:44", "codes": ["DD"]},
+    {"time": "17:18", "codes": ["car does not slow down to speed limit"]},
+    {"time": "18:10", "codes": ["ACC"]}
+  ]
+}
