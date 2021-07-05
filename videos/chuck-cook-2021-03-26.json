@@ -14,7 +14,7 @@
     {"time": "8:13", "codes": ["YSLOW"]},
     {"time": "14:37", "codes": ["SWL"]},
     {"time": "14:52", "codes": ["GAS"]},
-    {"time": "15:24", "codes": ["GAS"]},
+    {"time": "15:22", "codes": ["YSTOP", "GAS"]},
     {"time": "17:55", "codes": ["BLINK"]},
     {"time": "18:42", "codes": ["GAS"]},
     {"time": "20:25", "codes": ["GAS"]}
