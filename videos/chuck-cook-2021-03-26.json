@@ -10,6 +10,7 @@
   "events": [
     {"time": "1:44", "codes": ["YSTOP", "GAS"]},
     {"time": "6:30", "codes": ["YSTOP"]},
+    {"time": "6:50", "codes": ["YSLOW"]},
     {"time": "14:37", "codes": ["SWL"]},
     {"time": "14:52", "codes": ["GAS"]},
     {"time": "15:24", "codes": ["GAS"]},
