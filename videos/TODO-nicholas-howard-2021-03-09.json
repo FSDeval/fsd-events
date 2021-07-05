@@ -1,7 +1,18 @@
-https://www.youtube.com/watch?v=l3Suj776ZnU
-1:51 - DD to turn into correct lane
-4:39 - DD before unprotected left turn
-6:42 - ACC at yield sign
-8:39 - ACC
-9:53 - DD before speed bump
-12:39 - ACC at yield sign
+{
+  "metadata": {
+    "user": "Nicholas Howard",
+    "date": "2021-03-09",
+    "location": "GA",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=l3Suj776ZnU",
+    "video-length": "13:21"
+  },
+  "events": [
+    {"time": "1:51", "codes": ["DD"]},
+    {"time": "4:39", "codes": ["DD"]},
+    {"time": "6:42", "codes": ["GAS"]},
+    {"time": "8:39", "codes": ["GAS"]},
+    {"time": "9:53", "codes": ["DD"]},
+    {"time": "12:39", "codes": ["DD"]}
+  ]
+}
