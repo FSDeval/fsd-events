@@ -8,7 +8,7 @@
     "video-length": "22:57"
   },
   "events": [
-    {"time": "4:03", "codes": ["DD"], "comment": "car got stuck behind a parked bus"},
+    {"time": "4:03", "codes": ["DD"], "comment": "car stuck behind a parked bus"},
     {"time": "6:45", "codes": ["DD"]},
     {"time": "12:19", "codes": ["GAS"]},
     {"time": "14:44", "codes": ["DD"]},
