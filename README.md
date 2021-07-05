@@ -25,6 +25,7 @@ PTI, PWWAY | 2 | car partially drives into incoming lane
 SDU, YSLOW | 2 | car slows down unnecessarily
 SU, YSTOP | 2 | car stops unnecessarily
 TWL | 2 | car drives into wrong lane (of correct direction)
+BLINK | 3 | car activates spurious blinker
 BUS | 3 | car drives into bus only lane
 CLI | 3 | car changes lane in intersection
 DPL | 3 | car drives in parking lane
