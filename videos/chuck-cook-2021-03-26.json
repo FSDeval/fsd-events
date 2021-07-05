@@ -16,6 +16,7 @@
     {"time": "14:52", "codes": ["GAS"]},
     {"time": "15:22", "codes": ["YSTOP", "GAS"]},
     {"time": "17:55", "codes": ["BLINK"]},
+    {"time": "18:22", "codes": ["BLINK"]},
     {"time": "18:42", "codes": ["GAS"]},
     {"time": "20:25", "codes": ["GAS"]}
   ]
