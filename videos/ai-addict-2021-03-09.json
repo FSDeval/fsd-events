@@ -1,14 +1,26 @@
 {
   "metadata": {
-    "user": "",
-    "date": "yyyy-mm-dd",
-    "location": "",
-    "fsd-version": "",
-    "video-link": "",
-    "video-length": "mm:ss"
+    "user": "AI Addict",
+    "date": "2021-03-09",
+    "location": "San Francisco",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=NfikK9aWrlE",
+    "video-length": "13:46"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE2", "CODE3"]}
+    {"time": "1:26", "codes": ["DD"]},
+    {"time": "2:47", "codes": ["YSLOW"]},
+    {"time": "3:15", "codes": ["DD"]},
+    {"time": "3:42", "codes": ["car enters turn too fast & tries to center -> uncomfortable & slows down at end of turn"]},
+    {"time": "5:08", "codes": ["YSLOW"]},
+    {"time": "5:21", "codes": ["DRUNK"]},
+    {"time": "7:41", "codes": ["GAS"]},
+    {"time": "8:27", "codes": ["GAS"]},
+    {"time": "9:14", "codes": ["GAS"]},
+    {"time": "10:49", "codes": ["GAS"]},
+    {"time": "11:05", "codes": ["DRUNK"]},
+    {"time": "12:10", "codes": ["DD"]},
+    {"time": "12:28", "codes": ["DD"]},
+    {"time": "13:05", "codes": ["DD"]}
   ]
 }
