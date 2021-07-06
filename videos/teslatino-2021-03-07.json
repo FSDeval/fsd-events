@@ -2,12 +2,13 @@
   "metadata": {
     "user": "TesLatino",
     "date": "2021-03-07",
-    "location": "Sunrise, ?",
+    "location": "Sunrise, FL",
     "fsd-version": "8.2 (2021.4.11.1)",
     "video-link": "https://www.youtube.com/watch?v=rEBndFI0ssk",
     "video-length": "16:49"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "2:17", "codes": ["DD"]},
+    {"time": "6:21", "codes": ["DRUNK"]}
   ]
 }
