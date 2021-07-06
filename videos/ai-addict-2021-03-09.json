@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "user": "",
+    "date": "yyyy-mm-dd",
+    "location": "",
+    "fsd-version": "",
+    "video-link": "",
+    "video-length": "mm:ss"
+  },
+  "events": [
+    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "mm:ss", "codes": ["CODE2", "CODE3"]}
+  ]
+}
