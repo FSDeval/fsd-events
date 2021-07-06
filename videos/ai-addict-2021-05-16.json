@@ -8,6 +8,8 @@
     "video-length": "5:22"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "2:00", "codes": ["SWL", "CLI"]},
+    {"time": "2:41", "codes": ["DRUNK"]},
+    {"time": "3:40", "codes": ["DD"]}
   ]
 }
