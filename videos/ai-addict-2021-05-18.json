@@ -8,6 +8,7 @@
     "video-length": "9:21"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE"]},
+    {"time": "mm:ss", "codes": ["SWL", "CLI"]},
+    {"time": "mm:ss", "codes": ["DRS"]}
   ]
 }
