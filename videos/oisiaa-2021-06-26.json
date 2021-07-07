@@ -22,6 +22,7 @@
     {"time": "14:45", "codes": ["YSTOP"]},
     {"time": "18:33", "codes": ["YSTOP"]},
     {"time": "19:20", "codes": ["DRUNK"]},
+    {"time": "19:28", "codes": ["2FAST"]},
     {"time": "20:30", "codes": ["GAS"], "comment": "driver taps stalk"},
     {"time": "28:28", "codes": ["GAS"], "comment": "driver tapped accelerator previously"},
     {"time": "31:51", "codes": ["GAS"], "comment": "driver taps stalk"},
