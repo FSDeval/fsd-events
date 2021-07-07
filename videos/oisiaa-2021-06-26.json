@@ -28,6 +28,7 @@
     {"time": "31:51", "codes": ["GAS"], "comment": "driver taps stalk"},
     {"time": "33:29", "codes": ["GAS"], "comment": "driver taps stalk"},
     {"time": "35:16", "codes": ["GAS"]},
+    {"time": "35:39", "codes": ["DRS"]},
     {"time": "37:08", "codes": ["2FAST"], "comment": "car drives through stop sign at 11 mph"},
     {"time": "39:16", "codes": ["GAS"], "comment": "driver tapped accelerator previously"},
     {"time": "39:53", "codes": ["CD"]},
