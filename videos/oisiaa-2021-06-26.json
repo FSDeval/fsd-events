@@ -15,7 +15,7 @@
     {"time": "5:03", "codes": ["PWWAY"]},
     {"time": "7:14", "codes": ["DRS"]},
     {"time": "7:45", "codes": ["GAS"]},
-    {"time": "11:05", "codes": ["AVOID"], "comment": "pedestrians stop crossing street because car doesn't slow"},
+    {"time": "11:02", "codes": ["AVOID"], "comment": "pedestrians stop crossing street because car doesn't slow"},
     {"time": "12:25", "codes": ["GAS"], "comment": "driver taps stalk"},
     {"time": "18:33", "codes": ["YSTOP"]},
     {"time": "19:20", "codes": ["DRUNK"]},
