@@ -29,6 +29,7 @@ TWL | 2 | car drives into wrong lane (of correct direction)
 BLINK | 3 | car activates spurious blinker
 BUS | 3 | car drives into bus only lane
 CLI | 3 | car changes lane in intersection
+DIS | 3 | driver increases speed
 DPL | 3 | car drives in parking lane
 DRS | 3 | driver reduces speed
 MT | 3 | car misses turn
