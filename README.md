@@ -14,7 +14,7 @@ Criteria to include videos:
 Codes | Importance | Description
 --- | --- | ---
 2FAST | 1 | car does not slow down to speed limit
-AVOID | 1 | car causes other drivers to maneuver to avoid collision
+AVOID | 1 | car causes other drivers or pedestrians to maneuver to avoid collision
 CTI, CWWAY | 1 | car drives into incoming lane
 D | 1 | disengagement (not clear whether CD or DD)
 CD | 1 | car disengages
