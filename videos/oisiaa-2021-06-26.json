@@ -5,48 +5,27 @@
     "location": "",
     "fsd-version": "8.2",
     "video-link": "https://www.youtube.com/watch?v=SRr7HFrhrxQ",
-    "video-length": "52:59"
+    "video-length": "52:59",
+    "comment": "43:19 - interesting argument from driver on why even level 3 autonomy can be useful: 'I don't have to focus 100% on the driving task, I can kind of gain situational awareness around me.'",
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "4:58", "codes": ["DD"]},
+    {"time": "7:45", "codes": ["GAS"]},
+    {"time": "11:05", "codes": ["AVOID"], comment="pedestrians stop crossing street because car doesn't slow"},
+    {"time": "12:25", "codes": ["GAS"], comment="driver taps stalk"},
+    {"time": "18:33", "codes": ["YSTOP"]},
+    {"time": "19:20", "codes": ["DRUNK"]},
+    {"time": "20:30", "codes": ["GAS"], comment="driver taps stalk"},
+    {"time": "28:28", "codes": ["GAS"], comment="driver tapped accelerator previously"},
+    {"time": "31:51", "codes": ["GAS"], comment="driver taps stalk"},
+    {"time": "33:29", "codes": ["GAS"], comment="driver taps stalk"},
+    {"time": "35:16", "codes": ["GAS"]},
+    {"time": "37:08", "codes": ["2FAST"], comment="car drives through stop sign at 11 mph"},
+    {"time": "39:16", "codes": ["GAS"], comment="driver tapped accelerator previously"},
+    {"time": "39:53", "codes": ["CD"]},
+    {"time": "41:05", "codes": ["car slows down aggressively"]},
+    {"time": "44:03", "codes": ["GAS"]},
+    {"time": "44:48", "codes": ["DD"]},
+    {"time": "51:02", "codes": ["SWL"]}
   ]
 }
-
-4:58 - DD
-7:45 - ACC
-11:05 - pedestrians stop crossing street because car doesn't slow
-12:25 - driver taps stalk to cross intersection
-18:33 - car needlessly waits 7s at intersection
-19:20 - TOX
-20:30 - driver taps stalk to cross intersection
-28:28 - driver tapped accelerator previously
-31:51 - driver taps stalk to cross intersection
-33:29 - driver taps stalk to cross intersection
-35:16 - ACC
-37:08 - car drives through stop sign at 11 mph
-39:16 - driver tapped accelerator previously
-39:53 - CD
-41:05 - car slows down aggressively
-43:19 - interesting argument from driver on why even level 3 autonomy can be useful: "I don't have to focus 100% on the driving task, I can kind of gain situational awareness around me."
-44:03 - ACC
-44:48 - DD
-51:02 - SWL
