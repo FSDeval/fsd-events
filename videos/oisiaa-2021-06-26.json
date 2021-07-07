@@ -17,6 +17,7 @@
     {"time": "7:45", "codes": ["GAS"]},
     {"time": "11:02", "codes": ["AVOID"], "comment": "pedestrians stop crossing street because car doesn't slow"},
     {"time": "12:25", "codes": ["GAS"], "comment": "driver taps stalk"},
+    {"time": "13:18", "codes": ["DIS"]},
     {"time": "18:33", "codes": ["YSTOP"]},
     {"time": "19:20", "codes": ["DRUNK"]},
     {"time": "20:30", "codes": ["GAS"], "comment": "driver taps stalk"},
