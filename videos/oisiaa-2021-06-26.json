@@ -13,7 +13,6 @@
     {"time": "4:48", "codes": ["PWWAY"]},
     {"time": "4:58", "codes": ["DD"]},
     {"time": "5:03", "codes": ["PWWAY"]},
-    {"time": "5:46", "codes": ["DRUNK"]},
     {"time": "7:45", "codes": ["GAS"]},
     {"time": "11:05", "codes": ["AVOID"], "comment": "pedestrians stop crossing street because car doesn't slow"},
     {"time": "12:25", "codes": ["GAS"], "comment": "driver taps stalk"},
