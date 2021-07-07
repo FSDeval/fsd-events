@@ -23,7 +23,7 @@
     {"time": "37:08", "codes": ["2FAST"], "comment": "car drives through stop sign at 11 mph"},
     {"time": "39:16", "codes": ["GAS"], "comment": "driver tapped accelerator previously"},
     {"time": "39:53", "codes": ["CD"]},
-    {"time": "41:05", "codes": ["car slows down aggressively"]},
+    {"time": "41:05", "codes": ["SA"]},
     {"time": "44:03", "codes": ["GAS"]},
     {"time": "44:48", "codes": ["DD"]},
     {"time": "51:02", "codes": ["SWL"]}
