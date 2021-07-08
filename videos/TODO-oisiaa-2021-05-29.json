@@ -10,5 +10,6 @@
   "events": [
     {"time": "0:45", "codes": ["GAS"]},
     {"time": "3:19", "codes": ["YSLOW"]},
+    {"time": "3:42", "codes": ["GAS"]},
   ]
 }
