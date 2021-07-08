@@ -15,5 +15,7 @@
     {"time": "7:27", "codes": ["DD"]},
     {"time": "7:33", "codes": ["DD"]},
     {"time": "7:39", "codes": ["GAS"], "comment": "stalk"},
+    {"time": "11:21", "codes": ["DD"]},
+    {"time": "11:25", "codes": ["DD"]},
   ]
 }
