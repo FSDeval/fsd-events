@@ -18,5 +18,8 @@
     {"time": "11:21", "codes": ["DD"]},
     {"time": "11:25", "codes": ["DD"]},
     {"time": "14:28", "codes": ["DD"]},
+    {"time": "14:40", "codes": ["DD"]},
+    {"time": "14:42", "codes": ["DD"]},
+    {"time": "15:00", "codes": ["GAS"]},
   ]
 }
