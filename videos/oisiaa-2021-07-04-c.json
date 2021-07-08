@@ -8,6 +8,6 @@
     "video-length": "12:15"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["code"]},
+    {"time": "1:51", "codes": ["DRS"]},
   ]
 }
