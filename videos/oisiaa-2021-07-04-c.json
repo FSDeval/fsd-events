@@ -9,6 +9,6 @@
   },
   "events": [
     {"time": "1:51", "codes": ["DRS"]},
-    {"time": "9:58", "codes": ["DD"]},
+    {"time": "9:58", "codes": ["DD"]}
   ]
 }
