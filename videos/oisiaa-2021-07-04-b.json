@@ -8,6 +8,5 @@
     "video-length": "12:25"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["code"]},
   ]
 }
