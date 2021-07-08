@@ -12,5 +12,6 @@
     {"time": "1:26", "codes": ["DD"]},
     {"time": "2:04", "codes": ["YSTOP", "GAS"]},
     {"time": "3:27", "codes": ["DD"]},
+    {"time": "6:04", "codes": ["DD"]},
   ]
 }
