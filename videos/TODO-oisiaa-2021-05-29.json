@@ -27,5 +27,7 @@
     {"time": "22:24", "codes": ["DD"]},
     {"time": "22:39", "codes": ["DRS"]},
     {"time": "23:21", "codes": ["DD"]},
+    {"time": "23:44", "codes": ["GAS"], "comment": "stalk"},
+    {"time": "25:37", "codes": ["GAS"]},
   ]
 }
