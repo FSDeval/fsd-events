@@ -11,5 +11,9 @@
     {"time": "0:45", "codes": ["GAS"]},
     {"time": "3:19", "codes": ["YSLOW"]},
     {"time": "3:42", "codes": ["GAS"]},
+    {"time": "4:29", "codes": ["GAS"]},
+    {"time": "7:27", "codes": ["DD"]},
+    {"time": "7:33", "codes": ["DD"]},
+    {"time": "7:39", "codes": ["GAS"], "comment": "stalk"},
   ]
 }
