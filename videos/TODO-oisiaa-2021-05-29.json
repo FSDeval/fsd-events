@@ -23,5 +23,7 @@
     {"time": "15:00", "codes": ["GAS"]},
     {"time": "19:30", "codes": ["YSLOW"]},
     {"time": "20:57", "codes": ["DD"]},
+    {"time": "22:09", "codes": ["DD"]},
+    {"time": "22:24", "codes": ["DD"]},
   ]
 }
