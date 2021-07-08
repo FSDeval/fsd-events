@@ -29,5 +29,10 @@
     {"time": "23:21", "codes": ["DD"]},
     {"time": "23:44", "codes": ["GAS"], "comment": "stalk"},
     {"time": "25:37", "codes": ["GAS"]},
+    {"time": "25:55", "codes": ["DRS"]},
+    {"time": "26:00", "codes": ["GAS"], "comment": "stalk"},
+    {"time": "26:03", "codes": ["DRS"]},
+    {"time": "26:43", "codes": ["GAS"], "comment": "stalk"},
+    {"time": "27:04", "codes": ["DD"]},
   ]
 }
