@@ -36,5 +36,10 @@
     {"time": "27:04", "codes": ["DD"]},
     {"time": "28:02", "codes": ["DRS"]},
     {"time": "28:32", "codes": ["DRUNK"]},
+    {"time": "30:13", "codes": ["DD"]},
+    {"time": "30:59", "codes": ["DD"]},
+    {"time": "31:33", "codes": ["DRS"]},
+    {"time": "33:04", "codes": ["DD"]},
+    {"time": "33:24", "codes": ["DD"]}
   ]
 }
