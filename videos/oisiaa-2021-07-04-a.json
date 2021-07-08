@@ -8,6 +8,12 @@
     "video-length": "14:19"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "1:21", "codes": ["DD"]},
+    {"time": "2:57", "codes": ["YSLOW"]},
+    {"time": "3:24", "codes": ["DD"]},
+    {"time": "5:14", "codes": ["DRUNK"]},
+    {"time": "5:45", "codes": ["DRUNK"]},
+    {"time": "9:46", "codes": ["DD"]},
+    {"time": "12:13", "codes": ["DIS"]}
   ]
 }
