@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "user": "oisiaa",
+    "date": "2021-07-04",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=GFd9E1zY_uk",
+    "video-length": "14:19"
+  },
+  "events": [
+    {"time": "mm:ss", "codes": ["CODE1"]},
+  ]
+}
