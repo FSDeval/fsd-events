@@ -14,7 +14,7 @@
     {"time": "6:43", "codes": ["DRS"]},
     {"time": "7:20", "codes": ["YSTOP"]},
     {"time": "7:59", "codes": ["GAS"]},
-    {"time": "9:01", "codes": ["GAS"]},
+    {"time": "9:01", "codes": ["GAS"]},  
     {"time": "9:04", "codes": ["DRUNK"]},
     {"time": "9:28", "codes": ["CD"]},
     {"time": "9:48", "codes": ["DD"]},
@@ -23,5 +23,13 @@
     {"time": "11:37", "codes": ["DD"]},
     {"time": "11:58", "codes": ["GAS"]},
     {"time": "12:01", "codes": ["DD"]},
+    {"time": "12:56", "codes": ["DRS"]},
+    {"time": "13:30", "codes": ["DRS"]},
+    {"time": "14:32", "codes": ["DD"]},
+    {"time": "18:14", "codes": ["DD"]},
+    {"time": "18:42", "codes": ["DD"]},
+    {"time": "18:53", "codes": ["DD"]},
+    {"time": "19:41", "codes": ["DD"]},
+    {"time": "19:50", "codes": ["DD"]},
   ]
 }
