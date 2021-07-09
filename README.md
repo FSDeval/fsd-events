@@ -7,7 +7,7 @@ Criteria to include videos:
 - No music
 - Driver shares when they press the accelerator
 - Driver shares their thoughts and observations
-- Speed display visible
+- Central display clearly visible, especially speed gauge and FSD indicator
 
 ## Codes
 
