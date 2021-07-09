@@ -18,5 +18,14 @@
     {"time": "4:20", "codes": ["DD"]},
     {"time": "5:31", "codes": ["DD"]},
     {"time": "6:34", "codes": ["DD"]},
+    {"time": "8:21", "codes": ["DD"]},
+    {"time": "8:47", "codes": ["DD"]},
+    {"time": "9:02", "codes": ["DD"]},
+    {"time": "9:14", "codes": ["YSLOW"]},
+    {"time": "9:39", "codes": ["GAS"]},
+    {"time": "9:53", "codes": ["DD"]},
+    {"time": "10:06", "codes": ["DD"]},
+    {"time": "10:21", "codes": ["DD"]},
+    {"time": "10:45", "codes": ["DD"]}
   ]
 }
