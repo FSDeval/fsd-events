@@ -8,6 +8,11 @@
     "video-length": "23:20"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
+    {"time": "4:16", "codes": ["DD"]},
+    {"time": "5:55", "codes": ["YSTOP"]},
+    {"time": "6:34", "codes": ["DD"]},
+    {"time": "6:43", "codes": ["DRS"]},
+    {"time": "7:20", "codes": ["YSTOP"]},
+    {"time": "7:59", "codes": ["GAS"]},
   ]
 }
