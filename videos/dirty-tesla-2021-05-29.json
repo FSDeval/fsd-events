@@ -31,5 +31,9 @@
     {"time": "18:53", "codes": ["DD"]},
     {"time": "19:41", "codes": ["DD"]},
     {"time": "19:50", "codes": ["DD"]},
+    {"time": "20:50", "codes": ["DD"]},
+    {"time": "21:13", "codes": ["DD"]},
+    {"time": "21:58", "codes": ["AVOID"]},
+    {"time": "22:43", "codes": ["DD"]}
   ]
 }
