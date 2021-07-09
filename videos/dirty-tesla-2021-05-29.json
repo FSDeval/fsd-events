@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-05-29",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=voPEYFW73ck",
+    "video-length": "23:20"
+  },
+  "events": [
+    {"time": "4:16", "codes": ["DD"]},
+    {"time": "5:55", "codes": ["YSTOP"]},
+    {"time": "6:34", "codes": ["DD"]},
+    {"time": "6:43", "codes": ["DRS"]},
+    {"time": "7:20", "codes": ["YSTOP"]},
+    {"time": "7:59", "codes": ["GAS"]},
+    {"time": "9:01", "codes": ["GAS"]},  
+    {"time": "9:04", "codes": ["DRUNK"]},
+    {"time": "9:28", "codes": ["CD"]},
+    {"time": "9:48", "codes": ["DD"]},
+    {"time": "11:10", "codes": ["DD"]},
+    {"time": "11:25", "codes": ["CLI"]},
+    {"time": "11:37", "codes": ["DD"]},
+    {"time": "11:58", "codes": ["GAS"]},
+    {"time": "12:01", "codes": ["DD"]},
+    {"time": "12:56", "codes": ["DRS"]},
+    {"time": "13:30", "codes": ["DRS"]},
+    {"time": "14:32", "codes": ["DD"]},
+    {"time": "18:14", "codes": ["DD"]},
+    {"time": "18:42", "codes": ["DD"]},
+    {"time": "18:53", "codes": ["DD"]},
+    {"time": "19:41", "codes": ["DD"]},
+    {"time": "19:50", "codes": ["DD"]},
+    {"time": "20:50", "codes": ["DD"]},
+    {"time": "21:13", "codes": ["DD"]},
+    {"time": "21:58", "codes": ["AVOID"]},
+    {"time": "22:43", "codes": ["DD"]}
+  ]
+}
