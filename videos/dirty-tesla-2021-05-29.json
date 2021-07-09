@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-05-29",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=voPEYFW73ck",
+    "video-length": "23:20"
+  },
+  "events": [
+    {"time": "mm:ss", "codes": ["CODE1"]},
+  ]
+}
