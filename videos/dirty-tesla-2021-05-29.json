@@ -14,5 +14,14 @@
     {"time": "6:43", "codes": ["DRS"]},
     {"time": "7:20", "codes": ["YSTOP"]},
     {"time": "7:59", "codes": ["GAS"]},
+    {"time": "9:01", "codes": ["GAS"]},
+    {"time": "9:04", "codes": ["DRUNK"]},
+    {"time": "9:28", "codes": ["CD"]},
+    {"time": "9:48", "codes": ["DD"]},
+    {"time": "11:10", "codes": ["DD"]},
+    {"time": "11:25", "codes": ["CLI"]},
+    {"time": "11:37", "codes": ["DD"]},
+    {"time": "11:58", "codes": ["GAS"]},
+    {"time": "12:01", "codes": ["DD"]},
   ]
 }
