@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-06-18",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=psu-z7wnjFU",
+    "video-length": "11:41"
+  },
+  "events": [
+    {"time": "0:30", "codes": ["DD"]},
+    {"time": "2:04", "codes": ["DD"]},
+    {"time": "2:18", "codes": ["DRUNK"]},
+    {"time": "2:45", "codes": ["YSLOW", "GAS"]},
+    {"time": "3:35", "codes": ["DD"]},
+    {"time": "3:48", "codes": ["YSTOP", "DD"]},
+    {"time": "3:58", "codes": ["DD"]},
+    {"time": "4:20", "codes": ["DD"]},
+    {"time": "5:31", "codes": ["DD"]},
+    {"time": "6:34", "codes": ["DD"]},
+    {"time": "8:21", "codes": ["DD"]},
+    {"time": "8:47", "codes": ["DD"]},
+    {"time": "9:02", "codes": ["DD"]},
+    {"time": "9:14", "codes": ["YSLOW"]},
+    {"time": "9:39", "codes": ["GAS"]},
+    {"time": "9:53", "codes": ["DD"]},
+    {"time": "10:06", "codes": ["DD"]},
+    {"time": "10:21", "codes": ["DD"]},
+    {"time": "10:45", "codes": ["DD"]}
+  ]
+}
