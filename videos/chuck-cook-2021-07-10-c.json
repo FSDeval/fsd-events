@@ -8,6 +8,7 @@
     "video-length": "32:23"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["code"]},
+    {"time": "7:08", "codes": ["car stops at wrong stop line"]},
+    {"time": "12:50", "codes": ["YSLOW"]},
   ]
 }
