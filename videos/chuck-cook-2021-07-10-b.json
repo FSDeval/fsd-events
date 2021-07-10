@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-10",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=GXHiPrwUQKA",
+    "video-length": "11:58"
+  },
+  "events": [
+    {"time": "3:01", "codes": ["YSTOP"]},
+    {"time": "5:41", "codes": ["car stops at wrong stop line"]},
+    {"time": "8:43", "codes": ["YSTOP"]},
+    {"time": "8:52", "codes": ["DD"]},
+  ]
+}
