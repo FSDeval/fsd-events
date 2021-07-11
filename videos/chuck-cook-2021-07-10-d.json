@@ -8,6 +8,7 @@
     "video-length": "24:25"
   },
   "events": [
-    {"time": "mm:ss", "codes": ["code"]},
+    {"time": "0:43", "codes": ["DD"]},
+    {"time": "11:56", "codes": ["D"]},
   ]
 }
