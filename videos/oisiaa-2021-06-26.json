@@ -6,7 +6,7 @@
     "fsd-version": "8.2",
     "video-link": "https://www.youtube.com/watch?v=SRr7HFrhrxQ",
     "video-length": "52:59",
-    "comment": "43:00 - interesting argument from driver on why even level 3 autonomy can be useful: 'I don't have to focus 100% on the driving task, I can kind of gain situational awareness around me.'",
+    "comment": "43:00 - interesting argument from driver on why even level 3 autonomy can be useful: 'I don't have to focus 100% on the driving task, I can kind of gain situational awareness around me.'"
   },
   "events": [
     {"time": "4:40", "codes": ["DRS"]},
