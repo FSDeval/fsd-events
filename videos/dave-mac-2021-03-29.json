@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "Dave Mac",
+    "date": "2021-03-06",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=5aFysoOQs2M",
+    "video-length": "23:32"
+  },
+  "events": [
+    {"time": "0:39", "codes": ["DRUNK", "SWL"]},
+    {"time": "2:27", "codes": ["DD"]},
+    {"time": "5:07", "codes": ["DRUNK"]},
+    {"time": "15:08", "codes": ["YSTOP"]},
+    {"time": "16:19", "codes": ["DD"]},
+    {"time": "17:51", "codes": ["DD"]},
+    {"time": "19:27", "codes": ["YSLOW"]},
+    {"time": "22:43", "codes": ["GAS"]}
+  ]
+}
