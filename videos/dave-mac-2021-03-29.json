@@ -8,6 +8,8 @@
     "video-length": "23:32"
   },
   "events": [
-    {"time": "2:27", "codes": ["DD"]}
+    {"time": "0:39", "codes": ["DRUNK", "SWL"]},
+    {"time": "2:27", "codes": ["DD"]},
+    {"time": "5:07", "codes": ["DRUNK"]},
   ]
 }
