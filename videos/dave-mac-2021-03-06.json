@@ -9,7 +9,7 @@
   },
   "events": [
     {"time": "1:37", "codes": ["2FAST"]},
-    {"time": "2:24", "codes": ["GAS"]},
+    {"time": "2:23", "codes": ["GAS"]},
     {"time": "2:26", "codes": ["CLI"]},
     {"time": "2:55", "codes": ["car drives at 35 mph on highway onramp"]},
     {"time": "4:51", "codes": ["DD"]},
