@@ -4,9 +4,9 @@ Compilation of events occuring in Tesla FSD videos.
 
 Criteria to include videos:
 - Mostly 1x, uncut footage
-- No music
-- Driver shares when they press the accelerator
-- Driver shares their thoughts and observations
+- Driver shares their thoughts, observations and reactions
+    - Driver shares when they press the accelerator
+    - No music
 - Central display clearly visible, especially speed gauge and FSD indicator
 
 ## Codes
