@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-10",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=nMOJ5gVvttY",
+    "video-length": "24:25"
+  },
+  "events": [
+    {"time": "0:43", "codes": ["DD"]},
+    {"time": "11:56", "codes": ["D"]},
+    {"time": "13:07", "codes": ["GAS"]},
+    {"time": "13:19", "codes": ["DD"]},
+    {"time": "17:05", "codes": ["D"]},
+    {"time": "19:17", "codes": ["YSLOW"]}
+  ]
+}
