@@ -11,6 +11,6 @@
     {"time": "3:01", "codes": ["YSTOP"]},
     {"time": "5:41", "codes": ["car stops at wrong stop line"]},
     {"time": "8:43", "codes": ["YSTOP"]},
-    {"time": "8:52", "codes": ["DD"]},
+    {"time": "8:52", "codes": ["DD"]}
   ]
 }
