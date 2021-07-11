@@ -6,7 +6,6 @@ Report basic statistics on FSD videos.
 Usage: ./scripts/report.py videos/*.json
 """
 
-import argparse
 import json
 import re
 import sys
