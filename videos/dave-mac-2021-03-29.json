@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "user": "Dave Mac",
+    "date": "2021-03-06",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=5aFysoOQs2M",
+    "video-length": "23:32"
+  },
+  "events": [
+    {"time": "2:27", "codes": ["DD"]}
+  ]
+}
