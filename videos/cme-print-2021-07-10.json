@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "user": "CMePrint",
+    "date": "2021-07-10",
+    "location": "Los Angeles",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=OsQK5HExdZM",
+    "video-length": "16:20"
+  },
+  "events": [
+    {"time": "mm:ss", "codes": ["CODE1"]},
+  ]
+}
