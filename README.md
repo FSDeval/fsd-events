@@ -43,6 +43,8 @@ TOX, DRUNK | 3 | car acts drunk
 ### Match Requirements
 
 - [Dave Mac](https://www.youtube.com/c/DMacTech/about)
+- [Dirty Tesla](https://www.youtube.com/c/DirtyTesla/about)
+- [Kim Paquette](https://www.youtube.com/user/bimbels/about)
 
 ### Don't Match Requirements
 
