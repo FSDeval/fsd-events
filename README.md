@@ -47,6 +47,7 @@ TOX, DRUNK | 3 | car acts drunk
 - [Dirty Tesla](https://www.youtube.com/c/DirtyTesla/about)
 - [Kim Paquette](https://www.youtube.com/user/bimbels/about)
 - [oisiaa](https://www.youtube.com/user/oisiaa/about)
+- [Nicholas Howard](https://www.youtube.com/c/NicholasHoward/about)
 
 ### Don't Match Requirements
 
