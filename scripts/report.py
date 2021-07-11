@@ -30,14 +30,26 @@ class Stats:
         )
 
 
-def print_stats(stats, fsd_version=None, fout=sys.stdout):
+def get_per_hour(stats):
     hours = stats.video_length.total_seconds() / 3600
     events_per_hour = int(stats.events / hours)
     interventions_per_hour = int(stats.interventions / hours)
+    return (events_per_hour, interventions_per_hour)
+
+def print_stats(stats, fsd_version=None, fout=sys.stdout):
     title = "videos" if not fsd_version else f"{fsd_version} videos"
+    events_per_hour, interventions_per_hour = get_per_hour(stats)
     fout.write(f"Watched {stats.videos} {title} produced by {len(stats.drivers)} drivers and running for {stats.video_length}:\n")
     fout.write(f"- Observed {stats.events} events, i.e. about {events_per_hour} events per hour\n")
     fout.write(f"- Of those events, {stats.interventions} are interventions, i.e. about {interventions_per_hour} interventions per hour\n")
+
+
+def print_stats_table(stats_list, fsd_versions, fout=sys.stdout):
+    fout.write("version | videos | drivers | length | events | interventions | events / hr | interventions / hr\n")
+    fout.write("--- | --- | --- | --- | --- | --- | --- | --- \n")
+    for stats, fsd_version in zip(stats_list, fsd_versions):
+        events_per_hour, interventions_per_hour = get_per_hour(stats)
+        fout.write(f"{fsd_version} | {stats.videos} | {len(stats.drivers)} | {stats.video_length} | {stats.events} | {stats.interventions} | {events_per_hour} | {interventions_per_hour}\n")
 
 
 # Return (major, minor, version_string?)
@@ -93,3 +105,7 @@ if __name__ == '__main__':
     for fsd_version in sorted_fsd_versions:
         stats = fsd_version_to_stats[fsd_version]
         print_stats(stats, fsd_version)
+    print_stats_table(
+        [total_stats] + [fsd_version_to_stats[fsd_version] for fsd_version in sorted_fsd_versions],
+        ["Overall"] + sorted_fsd_versions,
+    )
