@@ -7,10 +7,38 @@ Usage: ./scripts/report.py videos/*.json
 """
 
 import argparse
-from datetime import timedelta
 import json
 import re
 import sys
+from collections import defaultdict
+from datetime import timedelta
+
+
+class Stats:
+    def __init__(self, video_length=timedelta(), events=0, interventions=0, drivers=[], videos=0):
+        self.video_length = video_length
+        self.events = events
+        self.interventions = interventions
+        self.drivers = set(drivers)
+        self.videos = videos
+    def __add__(self, other):
+        return Stats(
+            self.video_length + other.video_length,
+            self.events + other.events,
+            self.interventions + other.interventions,
+            self.drivers.union(other.drivers),
+            self.videos + other.videos,
+        )
+
+
+def print_stats(stats, fsd_version=None, fout=sys.stdout):
+    hours = stats.video_length.total_seconds() / 3600
+    events_per_hour = int(stats.events / hours)
+    interventions_per_hour = int(stats.interventions / hours)
+    title = "videos" if not fsd_version else f"{fsd_version} videos"
+    fout.write(f"Watched {stats.videos} {title} produced by {len(stats.drivers)} drivers and running for {stats.video_length}:\n")
+    fout.write(f"- Observed {stats.events} events, i.e. about {events_per_hour} events per hour\n")
+    fout.write(f"- Of those events, {stats.interventions} are interventions, i.e. about {interventions_per_hour} interventions per hour\n")
 
 
 # Return (major, minor, version_string?)
@@ -38,32 +66,31 @@ def get_interventions(events):
 
 if __name__ == '__main__':
     event_files = sys.argv[1:]
-    total_video_length = timedelta()
-    valid_event_files = []
-    total_events = 0
-    total_interventions = 0
-    drivers = set()
+    total_stats = Stats()
+    fsd_version_to_stats = defaultdict(Stats)
     for event_file in event_files:
         with open(event_file) as fin:
             try:
                 d = json.load(fin)
                 fsd_version = get_fsd_version(d["metadata"]["fsd-version"])
-                video_length = get_video_length(d["metadata"]["video-length"])
+                fsd_version = str(fsd_version[0]) + "." + str(fsd_version[1])
                 events = d["events"]
+                interventions = get_interventions(events)
                 driver = d["metadata"]["user"]
-                n_events = len(events)
-                n_interventions = len(get_interventions(d["events"]))
-                print(f"{event_file}: {driver} {fsd_version} {video_length} {n_events} {n_interventions}")
-                total_video_length += video_length
-                valid_event_files.append(event_file)
-                total_events += n_events
-                drivers.add(driver)
-                total_interventions += n_interventions
+                stats = Stats(
+                    get_video_length(d["metadata"]["video-length"]),
+                    len(events),
+                    len(interventions),
+                    [driver],
+                    1,
+                )
+                print(f"{event_file}: {driver} {fsd_version} {stats.video_length} {stats.events} {stats.interventions}")
+                total_stats += stats
+                fsd_version_to_stats[fsd_version] += stats
             except Exception as e:
                 print(f"Failed to load: {event_file}: {e}")
-    float_total_video_hours = total_video_length.total_seconds() / 3600
-    events_per_hour = int(total_events / float_total_video_hours)
-    interventions_per_hour = int(total_interventions / float_total_video_hours)
-    print(f"Watched {len(valid_event_files)} Tesla FSD videos produced by {len(drivers)} drivers and running for {total_video_length}:")
-    print(f"- Observed {total_events} events, i.e. about {events_per_hour} events per hour")
-    print(f"- Of those events, {total_interventions} are interventions, i.e. about {interventions_per_hour} interventions per hour")
+    print_stats(total_stats)
+    sorted_fsd_versions = sorted(fsd_version_to_stats.keys())
+    for fsd_version in sorted_fsd_versions:
+        stats = fsd_version_to_stats[fsd_version]
+        print_stats(stats, fsd_version)
