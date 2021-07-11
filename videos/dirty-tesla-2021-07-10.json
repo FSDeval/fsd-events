@@ -17,5 +17,7 @@
     {"time": "9:06", "codes": ["CD"]},
     {"time": "9:10", "codes": ["CD"]},
     {"time": "10:57", "codes": ["DD"]},
+    {"time": "11:59", "codes": ["DD"]},
+    {"time": "12:46", "codes": ["YSTOP"]}
   ]
 }
