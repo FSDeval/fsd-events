@@ -2,6 +2,16 @@
 
 Compilation of events occuring in Tesla FSD videos.
 
+## Status
+
+```
+Watched 35 Tesla FSD videos produced by 9 drivers and running for 10:30:05:
+- Observed 376 events, i.e. about 35 events per hour
+- Of those events, 236 are interventions, i.e. about 22 interventions per hour
+```
+
+## Contributing
+
 Criteria to include videos:
 - Mostly 1x, uncut footage
 - Driver shares their thoughts, observations and reactions
