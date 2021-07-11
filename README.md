@@ -42,6 +42,8 @@ TOX, DRUNK | 3 | car acts drunk
 
 ### Match Requirements
 
+- [Dave Mac](https://www.youtube.com/c/DMacTech/about)
+
 ### Don't Match Requirements
 
 - [CMePrint](https://www.youtube.com/c/CMePrint/about): driver is silent
