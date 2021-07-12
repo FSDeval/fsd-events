@@ -43,6 +43,7 @@ TOX, DRUNK | 3 | car acts drunk
 ### Match Requirements
 
 - [AI Addict](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about)
+- [Chuck Cook](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about)
 - [Dave Mac](https://www.youtube.com/c/DMacTech/about)
 - [Dirty Tesla](https://www.youtube.com/c/DirtyTesla/about)
 - [Kim Paquette](https://www.youtube.com/user/bimbels/about)
