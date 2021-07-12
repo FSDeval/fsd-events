@@ -10,20 +10,20 @@
   "events": [
     {"time": "0:41", "codes": ["DD"]},
     {"time": "1:55", "codes": ["CLI"]},
-    {"time": "2:46", "codes": ["TOX"]},
+    {"time": "2:46", "codes": ["DRUNK"]},
     {"time": "3:42", "codes": ["CLI"]},
-    {"time": "3:46", "codes": ["SU", "ACC"]},
+    {"time": "3:46", "codes": ["YSTOP", "GAS"]},
     {"time": "4:36", "codes": ["CD"]},
-    {"time": "4:50", "codes": ["SU"]},
+    {"time": "4:50", "codes": ["YSTOP"]},
     {"time": "5:10", "codes": ["DD"]},
     {"time": "5:33", "codes": ["DD"]},
     {"time": "5:51", "codes": ["DD"]},
     {"time": "8:31", "codes": ["DD"]},
-    {"time": "8:49", "codes": ["ACC"]},
-    {"time": "9:05", "codes": ["ACC", "D"]},
-    {"time": "9:15", "codes": ["TOX"]},
+    {"time": "8:49", "codes": ["GAS"]},
+    {"time": "9:05", "codes": ["GAS", "D"]},
+    {"time": "9:15", "codes": ["DRUNK"]},
     {"time": "9:59", "codes": ["DRS"]},
-    {"time": "12:56", "codes": ["ACC"]},
+    {"time": "12:56", "codes": ["GAS"]},
     {"time": "13:32", "codes": ["CD"]}
   ]
 }

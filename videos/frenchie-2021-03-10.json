@@ -8,22 +8,22 @@
     "video-length": "21:22"
   },
   "events": [
-    {"time": "1:19", "codes": ["SDU"]},
-    {"time": "2:13", "codes": ["SDU"]},
+    {"time": "1:19", "codes": ["YSLOW"]},
+    {"time": "2:13", "codes": ["YSLOW"]},
     {"time": "4:09", "codes": ["CLI"]},
     {"time": "4:23", "codes": ["DD"]},
-    {"time": "5:47", "codes": ["SDU"]},
+    {"time": "5:47", "codes": ["YSLOW"]},
     {"time": "7:40", "codes": ["DD"]},
-    {"time": "8:06", "codes": ["TOX"]},
+    {"time": "8:06", "codes": ["DRUNK"]},
     {"time": "9:25", "codes": ["DD"]},
     {"time": "10:10", "codes": ["SWL"]},
     {"time": "10:59", "codes": ["DD"]},
-    {"time": "11:12", "codes": ["SU", "DD"]},
+    {"time": "11:12", "codes": ["YSTOP", "DD"]},
     {"time": "13:53", "codes": ["CD"]},
     {"time": "15:32", "codes": ["DD"]},
     {"time": "16:02", "codes": ["TWL"]},
     {"time": "16:52", "codes": ["SA"]},
-    {"time": "18:46", "codes": ["TOX"]},
-    {"time": "20:34", "codes": ["TOX", "DRS"]}
+    {"time": "18:46", "codes": ["DRUNK"]},
+    {"time": "20:34", "codes": ["DRUNK", "DRS"]}
   ]
 }

@@ -15,11 +15,11 @@
     {"time": "2:13", "codes": ["DD"]},
     {"time": "2:33", "codes": ["DRS"]},
     {"time": "3:09", "codes": ["RED"]},
-    {"time": "4:01", "codes": ["TOX"]},
+    {"time": "4:01", "codes": ["DRUNK"]},
     {"time": "4:17", "codes": ["DD"]},
-    {"time": "5:09", "codes": ["SDU"]},
+    {"time": "5:09", "codes": ["YSLOW"]},
     {"time": "6:46", "codes": ["FLC"]},
-    {"time": "9:02", "codes": ["TOX"]},
-    {"time": "9:15", "codes": ["SDU"]}
+    {"time": "9:02", "codes": ["DRUNK"]},
+    {"time": "9:15", "codes": ["YSLOW"]}
   ]
 }
