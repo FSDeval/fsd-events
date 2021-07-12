@@ -6,10 +6,10 @@ Compilation of events occuring in Tesla FSD videos.
 
 version | videos | drivers | length | events | interventions | events / hr | interventions / hr
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 47 | 10 | 12:26:44 | 429 | 280 | 34 | 22
+Overall | 51 | 10 | 13:17:59 | 460 | 295 | 34 | 22
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 27 | 13
 8.2 | 28 | 9 | 8:20:49 | 323 | 215 | 38 | 25
-9.0 | 17 | 7 | 3:16:25 | 83 | 54 | 25 | 16
+9.0 | 21 | 8 | 4:07:40 | 114 | 69 | 27 | 16
 
 ## Contributing
 

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-07-12",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=0FXFedg14LY",
+    "video-length": "17:07"
+  },
+  "events": [
+    {"time": "2:26", "codes": ["DD"]},
+    {"time": "4:22", "codes": ["GAS"]},
+    {"time": "4:59", "codes": ["DRUNK"]},
+    {"time": "7:07", "codes": ["YSLOW"]},
+    {"time": "8:01", "codes": ["YSLOW"]},
+    {"time": "9:56", "codes": ["DIS"]},
+    {"time": "10:20", "codes": ["YSTOP"]},
+    {"time": "13:33", "codes": ["DD"]},
+    {"time": "16:21", "codes": ["SWL"]}
+  ]
+}

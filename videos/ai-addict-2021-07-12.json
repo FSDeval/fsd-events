@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "user": "AI Addict",
+    "date": "2021-07-10",
+    "location": "San Francisco",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=3ltLwRPz6p4",
+    "video-length": "6:51"
+  },
+  "events": [
+    {"time": "1:11", "codes": ["DD"]},
+    {"time": "3:47", "codes": ["CD"]},
+    {"time": "4:24", "codes": ["DD"]},
+    {"time": "5:41", "codes": ["D"]}
+  ]
+}
