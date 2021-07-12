@@ -6,10 +6,10 @@ Compilation of events occuring in Tesla FSD videos.
 
 version | videos | drivers | length | events | interventions | events / hr | interventions / hr
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 42 | 10 | 11:17:23 | 400 | 251 | 35 | 22
+Overall | 47 | 10 | 12:26:44 | 429 | 280 | 34 | 22
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 27 | 13
-8.2 | 28 | 9 | 8:20:49 | 323 | 204 | 38 | 24
-9.0 | 12 | 5 | 2:07:04 | 54 | 36 | 25 | 16
+8.2 | 28 | 9 | 8:20:49 | 323 | 215 | 38 | 25
+9.0 | 17 | 7 | 3:16:25 | 83 | 54 | 25 | 16
 
 ## Contributing
 
@@ -26,16 +26,16 @@ Codes | Importance | Description
 --- | --- | ---
 2FAST | 1 | car does not slow down to speed limit
 AVOID | 1 | car causes other drivers or pedestrians to maneuver to avoid collision
-CTI, CWWAY | 1 | car drives into incoming lane
+CWWAY | 1 | car drives into incoming lane
 D | 1 | disengagement (not clear whether CD or DD)
 CD | 1 | car disengages
 DD | 1 | driver disengages
 RED | 1 | car crosses on red
-ACC, GAS | 2 | driver taps accelerator
+GAS | 2 | driver taps accelerator
 FLC | 2 | driver forces lane change
-PTI, PWWAY | 2 | car partially drives into incoming lane
-SDU, YSLOW | 2 | car slows down unnecessarily
-SU, YSTOP | 2 | car stops unnecessarily
+PWWAY | 2 | car partially drives into incoming lane
+YSLOW | 2 | car slows down unnecessarily
+YSTOP | 2 | car stops unnecessarily
 TWL | 2 | car drives into wrong lane (of correct direction)
 BLINK | 3 | car activates spurious blinker
 BUS | 3 | car drives into bus only lane
@@ -47,4 +47,4 @@ MT | 3 | car misses turn
 MUST | 3 | car drives straight through in a turn-only lane
 SA | 3 | car stops abruptly
 SWL | 3 | car crosses solid white line
-TOX, DRUNK | 3 | car acts drunk
+DRUNK | 3 | car acts drunk

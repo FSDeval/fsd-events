@@ -13,9 +13,9 @@
     {"time": "4:32", "codes": ["DD"]},
     {"time": "5:48", "codes": ["car turns right from left lane"]},
     {"time": "6:41", "codes": ["SWL"]},
-    {"time": "7:59", "codes": ["SDU"]},
-    {"time": "11:13", "codes": ["TOX"]},
-    {"time": "11:49", "codes": ["TOX", "DD"]},
-    {"time": "14:24", "codes": ["CTI", "DD"]}
+    {"time": "7:59", "codes": ["YSLOW"]},
+    {"time": "11:13", "codes": ["DRUNK"]},
+    {"time": "11:49", "codes": ["DRUNK", "DD"]},
+    {"time": "14:24", "codes": ["CWWAY", "DD"]}
   ]
 }

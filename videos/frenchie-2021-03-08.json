@@ -11,9 +11,9 @@
     {"time": "1:52", "codes": ["DD"]},
     {"time": "3:08", "codes": ["DD"]},
     {"time": "3:48", "codes": ["DD"]},
-    {"time": "4:14", "codes": ["SDU"]},
-    {"time": "5:25", "codes": ["SU", "DD"]},
-    {"time": "6:33", "codes": ["SU"]},
+    {"time": "4:14", "codes": ["YSLOW"]},
+    {"time": "5:25", "codes": ["YSTOP", "DD"]},
+    {"time": "6:33", "codes": ["YSTOP"]},
     {"time": "6:51", "codes": ["D"]}
   ]
 }
