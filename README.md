@@ -1,6 +1,6 @@
 # fsd-events
 
-Compilation of events occuring in Tesla FSD videos.
+Compilation of events occurring in Tesla FSD videos.
 
 ## Status
 
