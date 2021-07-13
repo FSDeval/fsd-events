@@ -29,12 +29,32 @@ class Stats:
             self.videos + other.videos,
         )
 
+def pretty_time_interval(n, ti):
+    if n == 0:
+        return "NA"
+    h, m, s = 0, 0, int(ti.total_seconds() / n)
+    ret = []
+    if s >= 3600:
+        h = s // 3600
+        s = s % 3600
+        suffix = "s" if h > 1 else ""
+        ret.append(f"{h} hour{suffix}")
+    if s >= 60:
+        m = s // 60
+        s = s % 60
+        suffix = "s" if m > 1 else ""
+        ret.append(f"{m} minute{suffix}")
+    suffix = "s" if s > 1 else ""
+    ret.append(f"{s} second{suffix}")
+    return " ".join(ret)
+    
 
 def get_per_hour(stats):
     hours = stats.video_length.total_seconds() / 3600
     events_per_hour = int(stats.events / hours)
     interventions_per_hour = int(stats.interventions / hours)
     return (events_per_hour, interventions_per_hour)
+
 
 def print_stats(stats, fsd_version=None, fout=sys.stdout):
     title = "videos" if not fsd_version else f"{fsd_version} videos"
@@ -45,11 +65,12 @@ def print_stats(stats, fsd_version=None, fout=sys.stdout):
 
 
 def print_stats_table(stats_list, fsd_versions, fout=sys.stdout):
-    fout.write("version | videos | drivers | length | events | interventions | events / hr | interventions / hr\n")
+    fout.write("version | videos | drivers | length | events | interventions | time between events | time between interventions\n")
     fout.write("--- | --- | --- | --- | --- | --- | --- | --- \n")
     for stats, fsd_version in zip(stats_list, fsd_versions):
-        events_per_hour, interventions_per_hour = get_per_hour(stats)
-        fout.write(f"{fsd_version} | {stats.videos} | {len(stats.drivers)} | {stats.video_length} | {stats.events} | {stats.interventions} | {events_per_hour} | {interventions_per_hour}\n")
+        time_between_events = pretty_time_interval(stats.events, stats.video_length)
+        time_between_interventions = pretty_time_interval(stats.interventions, stats.video_length)
+        fout.write(f"{fsd_version} | {stats.videos} | {len(stats.drivers)} | {stats.video_length} | {stats.events} | {stats.interventions} | {time_between_events} | {time_between_interventions}\n")
 
 
 # Return (major, minor, version_string?)
