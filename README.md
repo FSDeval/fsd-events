@@ -2,10 +2,10 @@
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 51 | 10 | 13:17:59 | 460 | 295 | 1 minute 44 seconds | 2 minutes 42 seconds
+Overall | 55 | 10 | 14:03:38 | 485 | 311 | 1 minute 44 seconds | 2 minutes 42 seconds
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 2 minutes 9 seconds | 4 minutes 30 seconds
 8.2 | 28 | 9 | 8:20:49 | 323 | 215 | 1 minute 33 seconds | 2 minutes 19 seconds
-9.0 | 21 | 8 | 4:07:40 | 114 | 69 | 2 minutes 10 seconds | 3 minutes 35 seconds
+9.0 | 25 | 10 | 4:53:19 | 139 | 85 | 2 minutes 6 seconds | 3 minutes 27 seconds
 
 ## Contributing
 
