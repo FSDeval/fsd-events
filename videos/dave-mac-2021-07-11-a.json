@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "user": "Dave Mac",
+    "date": "2021-07-11",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=XNHUWyPGqzE",
+    "video-length": "6:32"
+  },
+  "events": [
+    {"time": "0:26", "codes": ["car drives close to hedge"]},
+    {"time": "4:34", "codes": ["DD"]},
+    {"time": "5:53", "codes": ["DD"]}
+  ]
+}
