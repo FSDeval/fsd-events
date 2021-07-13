@@ -1,15 +1,11 @@
-# fsd-events
-
-Compilation of events occurring in Tesla FSD videos.
-
 ## Status
 
-version | videos | drivers | length | events | interventions | events / hr | interventions / hr
+version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 51 | 10 | 13:17:59 | 460 | 295 | 34 | 22
-8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 27 | 13
-8.2 | 28 | 9 | 8:20:49 | 323 | 215 | 38 | 25
-9.0 | 21 | 8 | 4:07:40 | 114 | 69 | 27 | 16
+Overall | 51 | 10 | 13:17:59 | 460 | 295 | 1 minute 44 seconds | 2 minutes 42 seconds
+8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 2 minutes 9 seconds | 4 minutes 30 seconds
+8.2 | 28 | 9 | 8:20:49 | 323 | 215 | 1 minute 33 seconds | 2 minutes 19 seconds
+9.0 | 21 | 8 | 4:07:40 | 114 | 69 | 2 minutes 10 seconds | 3 minutes 35 seconds
 
 ## Contributing
 
