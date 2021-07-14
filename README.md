@@ -42,13 +42,15 @@ TOX, DRUNK | 3 | car acts drunk
 
 ### Match Requirements
 
-- [AI Addict](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about)
-- [Chuck Cook](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about)
-- [Dave Mac](https://www.youtube.com/c/DMacTech/about)
-- [Dirty Tesla](https://www.youtube.com/c/DirtyTesla/about)
-- [Kim Paquette](https://www.youtube.com/user/bimbels/about)
-- [oisiaa](https://www.youtube.com/user/oisiaa/about)
-- [Nicholas Howard](https://www.youtube.com/c/NicholasHoward/about)
+User name | Youtube | Twitter
+--- | --- | ---
+AI Addict | [Channel](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about) | -
+Chuck Cook | [Channel](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about) | [@Chazman](https://twitter.com/chazman)
+Dave Mac | [DMacTech](https://www.youtube.com/c/DMacTech/about) | [@CGDaveMac](https://twitter.com/CGDaveMac)
+Dirty Tesla | [DirtyTesla](https://www.youtube.com/c/DirtyTesla/about) | [@DirtyTesla](https://twitter.com/DirtyTesla)
+Kim Paquette| [bimbels](https://www.youtube.com/user/bimbels/about) | [@kimpaquette](https://twitter.com/kimpaquette)
+Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/about) | -
+oisiaa | [oisiaa](https://www.youtube.com/user/oisiaa/about) | -
 
 ### Don't Match Requirements
 
