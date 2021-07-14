@@ -2,6 +2,8 @@
 
 Compilation of events occurring in Tesla FSD videos.
 
+FSD9 so far seems to be an improvement over FSD8.2 -- on average, since the release of FSD9 drivers intervene once every 3-4 minutes, compared to once every 2-3 minutes for 8.2.
+
 ## Status
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
