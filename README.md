@@ -70,3 +70,24 @@ W-SWL | car crosses solid white line
 W-TWL | car drives into wrong lane (of correct direction)
 W-YSLOW | car slows down unnecessarily
 W-YSTOP | car stops unnecessarily
+
+### Drivers
+
+#### Match Requirements
+
+User name | Youtube | Twitter
+--- | --- | ---
+AI Addict | [Channel](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about) | -
+Chuck Cook | [Channel](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about) | [@Chazman](https://twitter.com/chazman)
+Dave Mac | [DMacTech](https://www.youtube.com/c/DMacTech/about) | [@CGDaveMac](https://twitter.com/CGDaveMac)
+Dirty Tesla | [DirtyTesla](https://www.youtube.com/c/DirtyTesla/about) | [@DirtyTesla](https://twitter.com/DirtyTesla)
+Frenchie | [Channel](https://www.youtube.com/channel/UCt8fkjhFgywzLGLVIz7Z7-g/about) | [@FrenchieEAP](https://twitter.com/FrenchieEAP)
+James Locke | [pilotjc78](https://www.youtube.com/user/pilotjc78) | [@arctechinc](https://twitter.com/arctechinc)
+Kim Paquette| [bimbels](https://www.youtube.com/user/bimbels/about) | [@kimpaquette](https://twitter.com/kimpaquette)
+Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/about) | -
+oisiaa | [oisiaa](https://www.youtube.com/user/oisiaa/about) | -
+TesLatino | [TesLatino](https://www.youtube.com/c/TesLatino/about) | [@TesLatino](https://twitter.com/TesLatino)
+
+#### Don't Match Requirements
+
+- [CMePrint](https://www.youtube.com/c/CMePrint/about): driver is silent
