@@ -15,7 +15,7 @@ Overall | 56 | 10 | 14:18:23 | 490 | 313 | 1m45s | 2m44s
 
 ## Methodology
 
-### Videos Selection
+### Video Selection
 
 Criteria to include videos:
 - Mostly 1x, uncut footage
