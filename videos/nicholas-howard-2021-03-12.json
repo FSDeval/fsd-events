@@ -8,12 +8,12 @@
     "video-length": "8:15"
   },
   "events": [
-    {"time": "1:15", "codes": ["YSLOW"]},
-    {"time": "1:36", "codes": ["DD"]},
-    {"time": "4:02", "codes": ["GAS"]},
-    {"time": "6:10", "codes": ["GAS"]},
-    {"time": "6:41", "codes": ["DD"]},
+    {"time": "1:15", "codes": ["W-YSLOW"]},
+    {"time": "1:36", "codes": ["D-D"]},
+    {"time": "4:02", "codes": ["I-GAS"]},
+    {"time": "6:10", "codes": ["I-GAS"]},
+    {"time": "6:41", "codes": ["D-D"]},
     {"time": "6:53", "codes": ["car drives over speed bump at 33 mph"]},
-    {"time": "7:34", "codes": ["DD"]}
+    {"time": "7:34", "codes": ["D-D"]}
   ]
 }

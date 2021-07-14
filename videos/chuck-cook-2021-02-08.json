@@ -8,13 +8,13 @@
     "video-length": "22:57"
   },
   "events": [
-    {"time": "4:03", "codes": ["DD"], "comment": "car stuck behind a parked bus"},
-    {"time": "6:45", "codes": ["DD"]},
-    {"time": "12:19", "codes": ["GAS"]},
-    {"time": "14:44", "codes": ["DD"]},
-    {"time": "16:06", "codes": ["YSLOW"]},
-    {"time": "16:21", "codes": ["YSLOW"]},
-    {"time": "17:18", "codes": ["2FAST"]},
-    {"time": "18:10", "codes": ["GAS"]}
+    {"time": "4:03", "codes": ["D-D"], "comment": "car stuck behind a parked bus"},
+    {"time": "6:45", "codes": ["D-D"]},
+    {"time": "12:19", "codes": ["I-GAS"]},
+    {"time": "14:44", "codes": ["D-D"]},
+    {"time": "16:06", "codes": ["W-YSLOW"]},
+    {"time": "16:21", "codes": ["W-YSLOW"]},
+    {"time": "17:18", "codes": ["W-2FAST"]},
+    {"time": "18:10", "codes": ["I-GAS"]}
   ]
 }

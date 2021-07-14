@@ -88,7 +88,7 @@ def get_video_length(s):
 
 def get_interventions(events):
     def has_intervention_code(event):
-        intervention_codes = set(["CD", "D", "DD",  "DIS", "DRS", "GAS",])
+        intervention_codes = set(["D", "D-C", "D-D", "I-GAS", "I-FAST", "I-SLOW", "I-TURN",])
         return len(intervention_codes.intersection(set(event["codes"]))) > 0
     return list(filter(has_intervention_code, events))
 

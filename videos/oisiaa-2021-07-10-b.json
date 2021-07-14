@@ -8,8 +8,8 @@
     "video-length": "12:49"
   },
   "events": [
-    {"time": "5:45", "codes": ["YSLOW"]},
-    {"time": "9:33", "codes": ["DRS"]},
-    {"time": "10:30", "codes": ["GAS"]}
+    {"time": "5:45", "codes": ["W-YSLOW"]},
+    {"time": "9:33", "codes": ["I-SLOW"]},
+    {"time": "10:30", "codes": ["I-GAS"]}
   ]
 }

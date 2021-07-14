@@ -8,16 +8,16 @@
     "video-length": "30:37"
   },
   "events": [
-    {"time": "1:44", "codes": ["YSTOP", "GAS"]},
-    {"time": "6:30", "codes": ["YSTOP"]},
-    {"time": "6:50", "codes": ["YSLOW"]},
-    {"time": "8:13", "codes": ["YSLOW"]},
-    {"time": "14:37", "codes": ["SWL"]},
-    {"time": "14:52", "codes": ["GAS"]},
-    {"time": "15:22", "codes": ["YSTOP", "GAS"]},
-    {"time": "17:55", "codes": ["BLINK"]},
-    {"time": "18:22", "codes": ["BLINK"]},
-    {"time": "18:42", "codes": ["GAS"]},
-    {"time": "20:25", "codes": ["GAS"]}
+    {"time": "1:44", "codes": ["W-YSTOP", "I-GAS"]},
+    {"time": "6:30", "codes": ["W-YSTOP"]},
+    {"time": "6:50", "codes": ["W-YSLOW"]},
+    {"time": "8:13", "codes": ["W-YSLOW"]},
+    {"time": "14:37", "codes": ["W-SWL"]},
+    {"time": "14:52", "codes": ["I-GAS"]},
+    {"time": "15:22", "codes": ["W-YSTOP", "I-GAS"]},
+    {"time": "17:55", "codes": ["W-BLINK"]},
+    {"time": "18:22", "codes": ["W-BLINK"]},
+    {"time": "18:42", "codes": ["I-GAS"]},
+    {"time": "20:25", "codes": ["I-GAS"]}
   ]
 }
