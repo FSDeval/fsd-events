@@ -44,10 +44,10 @@ D-D | driver disengages FSD (by braking or turning the steering wheel)
 
 Code | Description
 --- | ---
-I-DIS | driver increases speed using throttle on RHS of steering wheel
-I-DRS | driver reduces speed using throttle on RHS of steering wheel
+I-FAST | driver increases speed using throttle on RHS of steering wheel
 I-GAS | driver taps accelerator or uses stalk to tell car to proceed
-I-FLC | driver forces lane change by using turn signal
+I-SLOW | driver reduces speed using throttle on RHS of steering wheel
+I-TURN | driver forces lane change by using turn signal
 
 #### Wrong behavior
 

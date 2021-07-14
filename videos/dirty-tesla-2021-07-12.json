@@ -13,7 +13,7 @@
     {"time": "4:59", "codes": ["W-DRUNK"]},
     {"time": "7:07", "codes": ["W-YSLOW"]},
     {"time": "8:01", "codes": ["W-YSLOW"]},
-    {"time": "9:56", "codes": ["I-DIS"]},
+    {"time": "9:56", "codes": ["I-FAST"]},
     {"time": "10:20", "codes": ["W-YSTOP"]},
     {"time": "13:33", "codes": ["D-D"]},
     {"time": "16:21", "codes": ["W-SWL"]}

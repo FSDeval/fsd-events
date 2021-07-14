@@ -22,7 +22,7 @@
     {"time": "8:49", "codes": ["I-GAS"]},
     {"time": "9:05", "codes": ["I-GAS", "D"]},
     {"time": "9:15", "codes": ["W-DRUNK"]},
-    {"time": "9:59", "codes": ["I-DRS"]},
+    {"time": "9:59", "codes": ["I-SLOW"]},
     {"time": "12:56", "codes": ["I-GAS"]},
     {"time": "13:32", "codes": ["D-C"]}
   ]

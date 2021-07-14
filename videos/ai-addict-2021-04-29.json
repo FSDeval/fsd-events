@@ -10,15 +10,15 @@
   "events": [
     {"time": "0:37", "codes": ["D-C"]},
     {"time": "1:03", "codes": ["D-C"]},
-    {"time": "1:28", "codes": ["I-DRS"]},
+    {"time": "1:28", "codes": ["I-SLOW"]},
     {"time": "1:35", "codes": ["D-C"]},
     {"time": "2:13", "codes": ["D-D"]},
-    {"time": "2:33", "codes": ["I-DRS"]},
+    {"time": "2:33", "codes": ["I-SLOW"]},
     {"time": "3:09", "codes": ["W-RED"]},
     {"time": "4:01", "codes": ["W-DRUNK"]},
     {"time": "4:17", "codes": ["D-D"]},
     {"time": "5:09", "codes": ["W-YSLOW"]},
-    {"time": "6:46", "codes": ["I-FLC"]},
+    {"time": "6:46", "codes": ["I-TURN"]},
     {"time": "9:02", "codes": ["W-DRUNK"]},
     {"time": "9:15", "codes": ["W-YSLOW"]}
   ]

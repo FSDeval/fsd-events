@@ -14,6 +14,6 @@
     {"time": "5:14", "codes": ["W-DRUNK"]},
     {"time": "5:45", "codes": ["W-DRUNK"]},
     {"time": "9:46", "codes": ["D-D"]},
-    {"time": "12:13", "codes": ["I-DIS"]}
+    {"time": "12:13", "codes": ["I-FAST"]}
   ]
 }

@@ -17,7 +17,7 @@
     {"time": "5:03", "codes": ["D-D"]},
     {"time": "6:20", "codes": ["W-DRUNK"]},
     {"time": "8:56", "codes": ["W-YSTOP"]},
-    {"time": "9:17", "codes": ["I-DRS"]},
+    {"time": "9:17", "codes": ["I-SLOW"]},
     {"time": "9:22", "codes": ["D-D"]},
     {"time": "9:39", "codes": ["D-D"]},
     {"time": "10:15", "codes": ["W-DRUNK"]}

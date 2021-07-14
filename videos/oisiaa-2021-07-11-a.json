@@ -8,8 +8,8 @@
     "video-length": "7:16"
   },
   "events": [
-    {"time": "0:30", "codes": ["I-DIS"]},
-    {"time": "3:53", "codes": ["I-DRS"]},
+    {"time": "0:30", "codes": ["I-FAST"]},
+    {"time": "3:53", "codes": ["I-SLOW"]},
     {"time": "4:17", "codes": ["I-GAS"]},
     {"time": "5:34", "codes": ["W-DRUNK", "W-YSTOP", "D-D"]}
   ]

@@ -8,7 +8,7 @@
     "video-length": "12:00"
   },
   "events": [
-    {"time": "1:40", "codes": ["I-DIS"]},
-    {"time": "9:26", "codes": ["I-DRS"]}
+    {"time": "1:40", "codes": ["I-FAST"]},
+    {"time": "9:26", "codes": ["I-SLOW"]}
   ]
 }

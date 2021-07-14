@@ -9,6 +9,6 @@
   },
   "events": [
     {"time": "mm:ss", "codes": ["W-SWL", "W-CLI"]},
-    {"time": "mm:ss", "codes": ["I-DRS"]}
+    {"time": "mm:ss", "codes": ["I-SLOW"]}
   ]
 }

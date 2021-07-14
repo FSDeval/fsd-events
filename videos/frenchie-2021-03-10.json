@@ -24,6 +24,6 @@
     {"time": "16:02", "codes": ["W-TWL"]},
     {"time": "16:52", "codes": ["W-SA"]},
     {"time": "18:46", "codes": ["W-DRUNK"]},
-    {"time": "20:34", "codes": ["W-DRUNK", "I-DRS"]}
+    {"time": "20:34", "codes": ["W-DRUNK", "I-SLOW"]}
   ]
 }
