@@ -13,7 +13,9 @@ Overall | 56 | 10 | 14:18:23 | 490 | 313 | 1m45s | 2m44s
 8.2 | 28 | 9 | 8:20:49 | 323 | 216 | 1m33s | 2m19s
 9.0 | 26 | 10 | 5:08:04 | 144 | 86 | 2m8s | 3m34s
 
-## Contributing
+## Methodology
+
+### Videos Selection
 
 Criteria to include videos:
 - Mostly 1x, uncut footage
@@ -22,7 +24,7 @@ Criteria to include videos:
     - No music
 - Central display clearly visible, especially speed gauge and FSD indicator
 
-## Codes
+### Codes
 
 We record three kinds of events: disengagements (D), interventions (I) and any kind of
 inappropriate or wrong behavior (W).
@@ -31,23 +33,23 @@ Note that when we report statistics on interventions, we include both disengagem
 
 Whenever possible, we further break down these events as follows.
 
-### Disengagements
+#### Disengagements
 
 Code | Description
 --- | ---
 D-C | car disengages FSD
-D-D | driver disengages FSD (by braking or moving the steering wheel)
+D-D | driver disengages FSD (by braking or turning the steering wheel)
 
-### Interventions
+#### Interventions
 
 Code | Description
 --- | ---
 I-DIS | driver increases speed using throttle on RHS of steering wheel
 I-DRS | driver reduces speed using throttle on RHS of steering wheel
-I-GAS | driver taps accelerator or taps stalk
-I-FLC | driver forces lane change by tapping on turn signal
+I-GAS | driver taps accelerator or uses stalk to tell car to proceed
+I-FLC | driver forces lane change by using turn signal
 
-### Wrong behavior
+#### Wrong behavior
 
 Code | Description
 --- | ---
