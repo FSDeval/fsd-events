@@ -8,20 +8,20 @@
     "video-length": "26:33"
   },
   "events": [
-    {"time": "4:26", "codes": ["DD"]},
-    {"time": "5:09", "codes": ["BLINK"]},
-    {"time": "5:20", "codes": ["YSLOW", "BLINK"]},
+    {"time": "4:26", "codes": ["D-D"]},
+    {"time": "5:09", "codes": ["W-BLINK"]},
+    {"time": "5:20", "codes": ["W-YSLOW", "W-BLINK"]},
     {"time": "5:58", "codes": ["car does not stop at 'stop for pedestrian' crosswalk"]},
-    {"time": "8:45", "codes": ["SWL"]},
-    {"time": "10:13", "codes": ["DD"]},
-    {"time": "12:22", "codes": ["DD"]},
-    {"time": "14:24", "codes": ["YSTOP"]},
-    {"time": "14:40", "codes": ["YSTOP"]},
-    {"time": "14:49", "codes": ["GAS"]},
-    {"time": "15:48", "codes": ["YSLOW", "GAS"]},
-    {"time": "16:03", "codes": ["BLINK"]},
+    {"time": "8:45", "codes": ["W-SWL"]},
+    {"time": "10:13", "codes": ["D-D"]},
+    {"time": "12:22", "codes": ["D-D"]},
+    {"time": "14:24", "codes": ["W-YSTOP"]},
+    {"time": "14:40", "codes": ["W-YSTOP"]},
+    {"time": "14:49", "codes": ["I-GAS"]},
+    {"time": "15:48", "codes": ["W-YSLOW", "I-GAS"]},
+    {"time": "16:03", "codes": ["W-BLINK"]},
     {"time": "17:52", "codes": ["car drives close to oncoming car"]},
-    {"time": "18:23", "codes": ["DD"]},
-    {"time": "19:30", "codes": ["YSLOW"]}
+    {"time": "18:23", "codes": ["D-D"]},
+    {"time": "19:30", "codes": ["W-YSLOW"]}
   ]
 }

@@ -8,15 +8,15 @@
     "video-length": "31:50"
   },
   "events": [
-    {"time": "0:20", "codes": ["DD"]},
-    {"time": "6:41", "codes": ["DD"]},
-    {"time": "10:37", "codes": ["YSLOW"]},
-    {"time": "13:30", "codes": ["DD"]},
-    {"time": "18:29", "codes": ["SWL"]},
-    {"time": "18:38", "codes": ["DD"]},
-    {"time": "19:11", "codes": ["MT"]},
+    {"time": "0:20", "codes": ["D-D"]},
+    {"time": "6:41", "codes": ["D-D"]},
+    {"time": "10:37", "codes": ["W-YSLOW"]},
+    {"time": "13:30", "codes": ["D-D"]},
+    {"time": "18:29", "codes": ["W-SWL"]},
+    {"time": "18:38", "codes": ["D-D"]},
+    {"time": "19:11", "codes": ["W-MT"]},
     {"time": "19:16", "codes": ["D"]},
-    {"time": "27:45", "codes": ["YSLOW"]},
-    {"time": "29:03", "codes": ["DRUNK"]}
+    {"time": "27:45", "codes": ["W-YSLOW"]},
+    {"time": "29:03", "codes": ["W-DRUNK"]}
   ]
 }

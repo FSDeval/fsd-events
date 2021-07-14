@@ -8,9 +8,9 @@
     "video-length": "6:51"
   },
   "events": [
-    {"time": "1:11", "codes": ["DD"]},
-    {"time": "3:47", "codes": ["CD"]},
-    {"time": "4:24", "codes": ["DD"]},
+    {"time": "1:11", "codes": ["D-D"]},
+    {"time": "3:47", "codes": ["D-C"]},
+    {"time": "4:24", "codes": ["D-D"]},
     {"time": "5:41", "codes": ["D"]}
   ]
 }

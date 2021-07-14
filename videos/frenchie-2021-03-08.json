@@ -8,12 +8,12 @@
     "video-length": "14:39"
   },
   "events": [
-    {"time": "1:52", "codes": ["DD"]},
-    {"time": "3:08", "codes": ["DD"]},
-    {"time": "3:48", "codes": ["DD"]},
-    {"time": "4:14", "codes": ["YSLOW"]},
-    {"time": "5:25", "codes": ["YSTOP", "DD"]},
-    {"time": "6:33", "codes": ["YSTOP"]},
+    {"time": "1:52", "codes": ["D-D"]},
+    {"time": "3:08", "codes": ["D-D"]},
+    {"time": "3:48", "codes": ["D-D"]},
+    {"time": "4:14", "codes": ["W-YSLOW"]},
+    {"time": "5:25", "codes": ["W-YSTOP", "D-D"]},
+    {"time": "6:33", "codes": ["W-YSTOP"]},
     {"time": "6:51", "codes": ["D"]}
   ]
 }

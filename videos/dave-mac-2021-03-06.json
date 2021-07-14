@@ -8,12 +8,12 @@
     "video-length": "9:42"
   },
   "events": [
-    {"time": "1:37", "codes": ["2FAST"]},
-    {"time": "2:23", "codes": ["GAS"]},
-    {"time": "2:26", "codes": ["CLI"]},
-    {"time": "2:54", "codes": ["YSLOW"]},
-    {"time": "4:51", "codes": ["DD"]},
+    {"time": "1:37", "codes": ["W-2FAST"]},
+    {"time": "2:23", "codes": ["I-GAS"]},
+    {"time": "2:26", "codes": ["W-CLI"]},
+    {"time": "2:54", "codes": ["W-YSLOW"]},
+    {"time": "4:51", "codes": ["D-D"]},
     {"time": "6:12", "codes": ["car turns right from left lane"]},
-    {"time": "8:38", "codes": ["DD"]}
+    {"time": "8:38", "codes": ["D-D"]}
   ]
 }

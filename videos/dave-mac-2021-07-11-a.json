@@ -9,7 +9,7 @@
   },
   "events": [
     {"time": "0:26", "codes": ["car drives close to hedge"]},
-    {"time": "4:34", "codes": ["DD"]},
-    {"time": "5:53", "codes": ["DD"]}
+    {"time": "4:34", "codes": ["D-D"]},
+    {"time": "5:53", "codes": ["D-D"]}
   ]
 }
