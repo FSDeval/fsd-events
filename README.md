@@ -52,6 +52,7 @@ James Locke | [pilotjc78](https://www.youtube.com/user/pilotjc78) | [@arctechinc
 Kim Paquette| [bimbels](https://www.youtube.com/user/bimbels/about) | [@kimpaquette](https://twitter.com/kimpaquette)
 Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/about) | -
 oisiaa | [oisiaa](https://www.youtube.com/user/oisiaa/about) | -
+TesLatino | [TesLatino](https://www.youtube.com/c/TesLatino/about) | [@TesLatino](https://twitter.com/TesLatino)
 
 ### Don't Match Requirements
 
