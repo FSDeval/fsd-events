@@ -48,6 +48,7 @@ AI Addict | [Channel](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/a
 Chuck Cook | [Channel](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about) | [@Chazman](https://twitter.com/chazman)
 Dave Mac | [DMacTech](https://www.youtube.com/c/DMacTech/about) | [@CGDaveMac](https://twitter.com/CGDaveMac)
 Dirty Tesla | [DirtyTesla](https://www.youtube.com/c/DirtyTesla/about) | [@DirtyTesla](https://twitter.com/DirtyTesla)
+Frenchie | [Channel](https://www.youtube.com/channel/UCt8fkjhFgywzLGLVIz7Z7-g/about) | [@FrenchieEAP](https://twitter.com/FrenchieEAP)
 James Locke | [pilotjc78](https://www.youtube.com/user/pilotjc78) | [@arctechinc](https://twitter.com/arctechinc)
 Kim Paquette| [bimbels](https://www.youtube.com/user/bimbels/about) | [@kimpaquette](https://twitter.com/kimpaquette)
 Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/about) | -
