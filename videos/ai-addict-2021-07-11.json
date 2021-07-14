@@ -1,24 +1,24 @@
 {
   "metadata": {
     "user": "AI Addict",
-    "date": "yyyy-mm-dd",
+    "date": "2021-07-11",
     "location": "San Francisco",
     "fsd-version": "9.0 (2021.4.18.12)",
     "video-link": "https://www.youtube.com/watch?v=GlIdu7prsAw",
     "video-length": "11:12"
   },
   "events": [
-    {"time": "0:19", "codes": ["DRUNK"], "comment": "'We can only go up from here'"},
-    {"time": "2:48", "codes": ["DD"]},
-    {"time": "3:13", "codes": ["DD"]},
-    {"time": "3:46", "codes": ["SWL", "DRUNK"]},
-    {"time": "5:01", "codes": ["DD"]},
-    {"time": "5:14", "codes": ["DRUNK"], "comment": "'Oh whoa! Jesus Christ!'"},
-    {"time": "5:39", "codes": ["DD"], "comment": "'Whoa! Jesus Christ! Oh wow... No comment.'"},
-    {"time": "6:14", "codes": ["YSTOP"]},
-    {"time": "7:23", "codes": ["DD"]},
-    {"time": "9:13", "codes": ["DRUNK", "DD"]},
-    {"time": "9:37", "codes": ["DD"]},
-    {"time": "9:54", "codes": ["DD"]}
+    {"time": "0:19", "codes": ["W-DRUNK"], "comment": "'We can only go up from here'"},
+    {"time": "2:48", "codes": ["D-D"]},
+    {"time": "3:13", "codes": ["D-D"]},
+    {"time": "3:46", "codes": ["W-SWL", "W-DRUNK"]},
+    {"time": "5:01", "codes": ["D-D"]},
+    {"time": "5:14", "codes": ["W-DRUNK"], "comment": "'Oh whoa! Jesus Christ!'"},
+    {"time": "5:39", "codes": ["D-D"], "comment": "'Whoa! Jesus Christ! Oh wow... No comment.'"},
+    {"time": "6:14", "codes": ["W-YSTOP"]},
+    {"time": "7:23", "codes": ["D-D"]},
+    {"time": "9:13", "codes": ["W-DRUNK", "D-D"]},
+    {"time": "9:37", "codes": ["D-D"]},
+    {"time": "9:54", "codes": ["D-D"]}
   ]
 }

@@ -8,14 +8,14 @@
     "video-length": "15:50"
   },
   "events": [
-    {"time": "1:47", "codes": ["DD"]},
-    {"time": "2:05", "codes": ["DD"]},
-    {"time": "4:32", "codes": ["DD"]},
+    {"time": "1:47", "codes": ["D-D"]},
+    {"time": "2:05", "codes": ["D-D"]},
+    {"time": "4:32", "codes": ["D-D"]},
     {"time": "5:48", "codes": ["car turns right from left lane"]},
-    {"time": "6:41", "codes": ["SWL"]},
-    {"time": "7:59", "codes": ["SDU"]},
-    {"time": "11:13", "codes": ["TOX"]},
-    {"time": "11:49", "codes": ["TOX", "DD"]},
-    {"time": "14:24", "codes": ["CTI", "DD"]}
+    {"time": "6:41", "codes": ["W-SWL"]},
+    {"time": "7:59", "codes": ["W-YSLOW"]},
+    {"time": "11:13", "codes": ["W-DRUNK"]},
+    {"time": "11:49", "codes": ["W-DRUNK", "D-D"]},
+    {"time": "14:24", "codes": ["W-CWWAY", "D-D"]}
   ]
 }

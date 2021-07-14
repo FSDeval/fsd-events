@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-07-13",
+    "location": "Chicago",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=sJ-yU-lCJBw",
+    "video-length": "11:23"
+  },
+  "events": [
+    {"time": "1:46", "codes": ["W-YSTOP"]},
+    {"time": "2:03", "codes": ["W-YSTOP"]},
+    {"time": "2:18", "codes": ["I-GAS"]},
+    {"time": "3:46", "codes": ["W-YSTOP"]},
+    {"time": "4:20", "codes": ["I-GAS"]},
+    {"time": "4:28", "codes": ["W-YSTOP"]},
+    {"time": "5:03", "codes": ["D-D"]},
+    {"time": "6:20", "codes": ["W-DRUNK"]},
+    {"time": "8:56", "codes": ["W-YSTOP"]},
+    {"time": "9:17", "codes": ["I-SLOW"]},
+    {"time": "9:22", "codes": ["D-D"]},
+    {"time": "9:39", "codes": ["D-D"]},
+    {"time": "10:15", "codes": ["W-DRUNK"]}
+  ]
+}

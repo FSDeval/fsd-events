@@ -8,9 +8,9 @@
     "video-length": "4:30"
   },
   "events": [
-    {"time": "1:20", "codes": ["DD"]},
-    {"time": "2:02", "codes": ["GAS", "DD"]},
-    {"time": "2:39", "codes": ["DD"]},
-    {"time": "3:32", "codes": ["DD"]}
+    {"time": "1:20", "codes": ["D-D"]},
+    {"time": "2:02", "codes": ["I-GAS", "D-D"]},
+    {"time": "2:39", "codes": ["D-D"]},
+    {"time": "3:32", "codes": ["D-D"]}
   ]
 }

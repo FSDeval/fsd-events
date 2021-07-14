@@ -8,11 +8,11 @@
     "video-length": "24:25"
   },
   "events": [
-    {"time": "0:43", "codes": ["DD"]},
+    {"time": "0:43", "codes": ["D-D"]},
     {"time": "11:56", "codes": ["D"]},
-    {"time": "13:07", "codes": ["GAS"]},
-    {"time": "13:19", "codes": ["DD"]},
+    {"time": "13:07", "codes": ["I-GAS"]},
+    {"time": "13:19", "codes": ["D-D"]},
     {"time": "17:05", "codes": ["D"]},
-    {"time": "19:17", "codes": ["YSLOW"]}
+    {"time": "19:17", "codes": ["W-YSLOW"]}
   ]
 }

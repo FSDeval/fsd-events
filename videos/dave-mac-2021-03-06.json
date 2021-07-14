@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "Dave Mac",
+    "date": "2021-03-06",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=55CXEqCPFYM",
+    "video-length": "9:42"
+  },
+  "events": [
+    {"time": "1:37", "codes": ["W-2FAST"]},
+    {"time": "2:23", "codes": ["I-GAS"]},
+    {"time": "2:26", "codes": ["W-CLI"]},
+    {"time": "2:54", "codes": ["W-YSLOW"]},
+    {"time": "4:51", "codes": ["D-D"]},
+    {"time": "6:12", "codes": ["car turns right from left lane"]},
+    {"time": "8:38", "codes": ["D-D"]}
+  ]
+}

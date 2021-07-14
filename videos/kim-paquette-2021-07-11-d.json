@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "Kim Paquette",
+    "date": "2021-07-11",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=tLRlr_jQp7U",
+    "video-length": "5:10"
+  },
+  "events": [
+    {"time": "1:46", "codes": ["D-D"]},
+    {"time": "1:58", "codes": ["D-D"]},
+    {"time": "2:26", "codes": ["D-D"]},
+    {"time": "3:17", "codes": ["D-D"]},
+    {"time": "3:38", "codes": ["I-GAS"]}
+  ]
+}
