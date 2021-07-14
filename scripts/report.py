@@ -37,16 +37,13 @@ def pretty_time_interval(n, ti):
     if s >= 3600:
         h = s // 3600
         s = s % 3600
-        suffix = "s" if h > 1 else ""
-        ret.append(f"{h} hour{suffix}")
+        ret.append(f"{h}h")
     if s >= 60:
         m = s // 60
         s = s % 60
-        suffix = "s" if m > 1 else ""
-        ret.append(f"{m} minute{suffix}")
-    suffix = "s" if s > 1 else ""
-    ret.append(f"{s} second{suffix}")
-    return " ".join(ret)
+        ret.append(f"{m}m")
+    ret.append(f"{s}s")
+    return "".join(ret)
     
 
 def get_per_hour(stats):
