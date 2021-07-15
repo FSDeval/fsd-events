@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "Tesla Owners Silicon Valley",
+    "date": "2021-07-14",
+    "location": "San Jose, CA",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=ypvP7ua6bnk",
+    "video-length": "12:05"
+  },
+  "events": [
+    {"time": "0:28", "codes": ["D-D"]},
+    {"time": "2:04", "codes": ["W-DRUNK"]},
+    {"time": "6:25", "codes": ["W-RED"]},
+    {"time": "6:55", "codes": ["W-BLINK"]},
+    {"time": "7:57", "codes": ["W-BLINK"]},
+    {"time": "9:05", "codes": ["W-CLI"]},
+    {"time": "11:05", "codes": ["D-D"]}
+  ]
+}
