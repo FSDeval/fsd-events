@@ -8,9 +8,9 @@ FSD9 so far seems to be an improvement over FSD8.2. Since the release of FSD9, d
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 66 | 12 | 17:23:29 | 602 | 375 | 1m44s | 2m46s
+Overall | 67 | 12 | 17:33:42 | 608 | 381 | 1m43s | 2m45s
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 2m9s | 4m30s
-8.2 | 29 | 10 | 8:30:01 | 325 | 218 | 1m34s | 2m20s
+8.2 | 30 | 10 | 8:40:14 | 331 | 224 | 1m34s | 2m19s
 9.0 | 35 | 12 | 8:03:58 | 254 | 146 | 1m54s | 3m18s
 
 ## Methodology
