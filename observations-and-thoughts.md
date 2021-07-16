@@ -5,7 +5,7 @@
       haven't disengaged at all.  Up until those two roundabouts [at [16:07](https://youtu.be/2syXnikGlYQ?t=967) and [16:37](https://youtu.be/2syXnikGlYQ?t=997)],
       there's been no disengagements. I haven't disengaged once. Other than those two roundabouts."
       Actually, the driver had disengaged twice before the two roundabouts,
-      at [](https://youtu.be/2syXnikGlYQ?t=736)) and [](https://youtu.be/2syXnikGlYQ?t=931)).
+      at [12:16](https://youtu.be/2syXnikGlYQ?t=736)) and [15:31](https://youtu.be/2syXnikGlYQ?t=931)).
 - Some drivers feel sad or become silent when too many disengagements
 - Some drivers avoid disengagements which is sometimes rude towards other drivers or pedestrians (Brandon and Amazon van)
 - Time not perfect way to normalize but distance isn’t either
