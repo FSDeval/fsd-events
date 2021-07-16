@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "user": "Tesla Owners Silicon Valley",
+    "date": "2021-07-15",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=Rjcx-bR3wV0",
+    "video-length": "22:24"
+  },
+  "events": [
+    {"time": "0:50", "codes": ["W-DRUNK"]},
+    {"time": "1:22", "codes": ["D-D"]},
+    {"time": "4:14", "codes": ["W-YSTOP"]},
+    {"time": "5:50", "codes": ["I-FAST"]},
+    {"time": "7:12", "codes": ["D-D"]},
+    {"time": "8:34", "codes": ["D-D"]},
+    {"time": "9:09", "codes": ["W-YSTOP"]},
+    {"time": "10:22", "codes": ["D-D"]},
+    {"time": "11:05", "codes": ["W-DRUNK"]},
+    {"time": "12:28", "codes": ["D-D"]},
+    {"time": "17:24", "codes": ["I-SLOW"]},
+    {"time": "17:36", "codes": ["W-MT"]},
+    {"time": "17:44", "codes": ["D-C"]},
+    {"time": "17:58", "codes": ["W-PWWAY"]},
+    {"time": "18:07", "codes": ["D-D"]},
+    {"time": "19:20", "codes": ["I-SLOW"]},
+    {"time": "19:27", "codes": ["I-SLOW"]},
+    {"time": "19:41", "codes": ["D-D"]},
+    {"time": "20:27", "codes": ["D-D"]},
+    {"time": "20:51", "codes": ["W-YSTOP"]},
+    {"time": "20:59", "codes": ["W-YSTOP"]},
+    {"time": "21:08", "codes": ["W-CWWAY"]},
+    {"time": "22:05", "codes": ["D-D"]}
+  ]
+}
