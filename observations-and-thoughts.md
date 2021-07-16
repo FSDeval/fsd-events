@@ -7,6 +7,7 @@
       Actually, the driver had disengaged twice before the two roundabouts,
       at [12:16](https://youtu.be/2syXnikGlYQ?t=736) and [15:31](https://youtu.be/2syXnikGlYQ?t=931).
 - Some drivers feel sad or become silent when too many disengagements
+    - Example: TOSV (3 times): "it's a bit of a bummer" (1st DD, 2nd DD, 8:15)
 - Some drivers avoid disengagements which is sometimes rude towards other drivers or pedestrians (Brandon and Amazon van)
 - Time not perfect way to normalize but distance isn’t either
 - What is Tesla’s goal? L3 or L5? If former, need better communication with user to help them predict when they might to take over. For instance, if the car showed “allowed surface”, Frenchie could have disengaged sooner w construction workers, or passed garbage truck sooner.
