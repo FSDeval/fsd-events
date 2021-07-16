@@ -8,10 +8,10 @@ FSD9 so far seems to be an improvement over FSD8.2. Since the release of FSD9, d
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 69 | 12 | 18:04:42 | 633 | 397 | 1m42s | 2m43s
+Overall | 70 | 13 | 18:14:57 | 641 | 405 | 1m42s | 2m42s
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 2m9s | 4m30s
 8.2 | 30 | 10 | 8:40:14 | 331 | 224 | 1m34s | 2m19s
-9.0 | 37 | 12 | 8:34:58 | 279 | 162 | 1m50s | 3m10s
+9.0 | 38 | 13 | 8:45:13 | 287 | 170 | 1m49s | 3m5s
 
 ## Methodology
 
@@ -89,6 +89,7 @@ Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/abou
 oisiaa | [oisiaa](https://www.youtube.com/user/oisiaa/about) | -
 TesLatino | [TesLatino](https://www.youtube.com/c/TesLatino/about) | [@TesLatino](https://twitter.com/TesLatino)
 Tesla Owners Silicon Valley | [TeslaOwnersSiliconValley](https://www.youtube.com/c/TeslaOwnersSiliconValley/about) | [@teslaownersSV](https://twitter.com/teslaownersSV)
+Trevor Mahlmann | [TrevorMahlmann](https://www.youtube.com/c/TrevorMahlmann/about) | [@TrevorMahlmann](https://twitter.com/TrevorMahlmann)
 
 #### Don't Match Requirements
 

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "Trevor Mahlmann",
+    "date": "2021-07-11",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=xO91orxiG-M",
+    "video-length": "10:15"
+  },
+  "events": [
+    {"time": "0:20", "codes": ["D-D"]},
+    {"time": "0:37", "codes": ["D-D"]},
+    {"time": "3:27", "codes": ["D-D"]},
+    {"time": "4:14", "codes": ["D-D"]},
+    {"time": "4:28", "codes": ["D-D"]},
+    {"time": "4:55", "codes": ["D-D"]},
+    {"time": "5:00", "codes": ["D-D"]},
+    {"time": "8:22", "codes": ["I-FAST"]}
+  ]
+}
