@@ -16,3 +16,6 @@
 - Time not perfect way to normalize but distance isn’t either
 - What is Tesla’s goal? L3 or L5? If former, need better communication with user to help them predict when they might to take over. For instance, if the car showed “allowed surface”, Frenchie could have disengaged sooner w construction workers, or passed garbage truck sooner.
 - If L5, obviously right now way too poor, and distance is very large.
+- Need for better communication:
+    - https://youtu.be/xO91orxiG-M?t=70: "It doesn't really inspire too much confidence when it doesn't say anything on the screen, you know,
+      'yielding to traffic' or 'slowing fpr traffic to find a gap' or anything."
