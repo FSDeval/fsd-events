@@ -8,6 +8,7 @@
       at [12:16](https://youtu.be/2syXnikGlYQ?t=736) and [15:31](https://youtu.be/2syXnikGlYQ?t=931).
 - Some drivers feel sad or become silent when too many disengagements
     - Example: TOSV (3 times): "it's a bit of a bummer" (1st DD, 2nd DD, 8:15)
+    - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=472): "It's a bummer. It's really a bummer."
 - They are the less likely to post videos
     - End or one of oissa or dirty videos??
 - Some drivers avoid disengagements which is sometimes rude towards other drivers or pedestrians, or miss turns:
