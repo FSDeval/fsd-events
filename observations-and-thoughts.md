@@ -19,4 +19,4 @@
     - If L5, obviously right now way too poor, and distance is very large.
 - Need for better communication:
     - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=70): "It doesn't really inspire too much confidence when it doesn't say anything on the screen,
-      you know, 'yielding to traffic' or 'slowing fpr traffic to find a gap' or anything."
+      you know, 'yielding to traffic' or 'slowing for traffic to find a gap' or anything."
