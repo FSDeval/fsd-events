@@ -78,7 +78,7 @@ W-YSTOP | car stops unnecessarily
 User name | Youtube | Twitter
 --- | --- | ---
 AI Addict | [Channel](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about) | -
-Brandonee916 | [Brandonee916](https://www.youtube.com/c/Brandonee916/about) | - [@brandonee916](https://twitter.com/brandonee916)
+Brandonee916 | [Brandonee916](https://www.youtube.com/c/Brandonee916/about) | [@brandonee916](https://twitter.com/brandonee916)
 Chuck Cook | [Channel](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about) | [@Chazman](https://twitter.com/chazman)
 Dave Mac | [DMacTech](https://www.youtube.com/c/DMacTech/about) | [@CGDaveMac](https://twitter.com/CGDaveMac)
 Dirty Tesla | [DirtyTesla](https://www.youtube.com/c/DirtyTesla/about) | [@DirtyTesla](https://twitter.com/DirtyTesla)
