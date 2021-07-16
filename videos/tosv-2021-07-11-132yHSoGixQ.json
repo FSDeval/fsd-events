@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "user": "Tesla Owners Silicon Valley",
+    "date": "2021-07-11",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=132yHSoGixQ",
+    "video-length": "8:36"
+  },
+  "events": [
+    {"time": "4:37", "codes": ["I-SLOW"]},
+    {"time": "8:21", "codes": ["D-D"]}
+  ]
+}

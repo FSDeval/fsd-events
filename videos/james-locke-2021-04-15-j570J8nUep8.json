@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-04-15",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=j570J8nUep8",
+    "video-length": "9:12"
+  },
+  "events": [
+    {"time": "1:08", "codes": ["I-SLOW"]},
+    {"time": "9:04", "codes": ["D-D"]}
+  ]
+}

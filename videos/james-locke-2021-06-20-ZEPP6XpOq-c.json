@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-06-20",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=ZEPP6XpOq-c",
+    "video-length": "10:13"
+  },
+  "events": [
+    {"time": "0:56", "codes": ["I-SLOW"]},
+    {"time": "1:36", "codes": ["I-GAS"]},
+    {"time": "2:11", "codes": ["I-GAS"]},
+    {"time": "6:28", "codes": ["D-D"]},
+    {"time": "8:00", "codes": ["I-GAS"]},
+    {"time": "9:20", "codes": ["I-GAS"]}
+  ]
+}

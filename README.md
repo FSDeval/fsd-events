@@ -8,10 +8,10 @@ FSD9 so far seems to be an improvement over FSD8.2. Since the release of FSD9, d
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 62 | 11 | 15:50:07 | 545 | 340 | 1m44s | 2m47s
+Overall | 70 | 13 | 18:14:57 | 641 | 405 | 1m42s | 2m42s
 8.1 | 2 | 1 | 0:49:30 | 23 | 11 | 2m9s | 4m30s
-8.2 | 28 | 9 | 8:20:49 | 323 | 216 | 1m33s | 2m19s
-9.0 | 32 | 11 | 6:39:48 | 199 | 113 | 2m0s | 3m32s
+8.2 | 30 | 10 | 8:40:14 | 331 | 224 | 1m34s | 2m19s
+9.0 | 38 | 13 | 8:45:13 | 287 | 170 | 1m49s | 3m5s
 
 ## Methodology
 
@@ -78,6 +78,7 @@ W-YSTOP | car stops unnecessarily
 User name | Youtube | Twitter
 --- | --- | ---
 AI Addict | [Channel](https://www.youtube.com/channel/UCnSt1nfVXyTyMbKhk-IaTJw/about) | -
+Brandonee916 | [Brandonee916](https://www.youtube.com/c/Brandonee916/about) | [@brandonee916](https://twitter.com/brandonee916)
 Chuck Cook | [Channel](https://www.youtube.com/channel/UCwdbsDtaMAh6QXvcbp08YzQ/about) | [@Chazman](https://twitter.com/chazman)
 Dave Mac | [DMacTech](https://www.youtube.com/c/DMacTech/about) | [@CGDaveMac](https://twitter.com/CGDaveMac)
 Dirty Tesla | [DirtyTesla](https://www.youtube.com/c/DirtyTesla/about) | [@DirtyTesla](https://twitter.com/DirtyTesla)
@@ -87,7 +88,8 @@ Kim Paquette| [bimbels](https://www.youtube.com/user/bimbels/about) | [@kimpaque
 Nicholas Howard | [NicholasHoward](https://www.youtube.com/c/NicholasHoward/about) | -
 oisiaa | [oisiaa](https://www.youtube.com/user/oisiaa/about) | -
 TesLatino | [TesLatino](https://www.youtube.com/c/TesLatino/about) | [@TesLatino](https://twitter.com/TesLatino)
-Tesla Owners Silicon Valley | [TeslaOwnersSiliconValley](https://www.youtube.com/c/TeslaOwnersSiliconValley/about) | [teslaownersSV](https://twitter.com/teslaownersSV)
+Tesla Owners Silicon Valley | [TeslaOwnersSiliconValley](https://www.youtube.com/c/TeslaOwnersSiliconValley/about) | [@teslaownersSV](https://twitter.com/teslaownersSV)
+Trevor Mahlmann | [TrevorMahlmann](https://www.youtube.com/c/TrevorMahlmann/about) | [@TrevorMahlmann](https://twitter.com/TrevorMahlmann)
 
 #### Don't Match Requirements
 
