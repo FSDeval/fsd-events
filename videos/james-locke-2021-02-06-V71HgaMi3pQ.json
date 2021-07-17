@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-02-06",
+    "location": "",
+    "fsd-version": "8.1 (2020.48.35.7)",
+    "video-link": "https://www.youtube.com/watch?v=V71HgaMi3pQ",
+    "video-length": "7:13",
+    "video-title": "Model 3 - Beta FSD 8.1 - Grocery Store & Return - New Recording Equip - 2020.48.35.7 - 6 Feb 2021"
+  },
+  "events": [
+    {"time": "1:38", "codes": ["I-SLOW"]},
+    {"time": "2:08", "codes": ["D-D"]},
+    {"time": "2:20", "codes": ["I-GAS"]},
+    {"time": "3:41", "codes": ["W-AVOID"]},
+    {"time": "4:22", "codes": ["D-D"]},
+    {"time": "6:00", "codes": ["W-DRUNK"]}
+  ]
+}
