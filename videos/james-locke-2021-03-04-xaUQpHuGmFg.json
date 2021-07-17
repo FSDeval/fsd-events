@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-03-04",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=xaUQpHuGmFg",
+    "video-length": "8:49",
+    "video-title": "Model 3 - Beta FSD 8.2 - Test Loop 1 - 2021.4.11.1 - 3 March 2021",
+    "comment": "It appears more confident (than 8.1). See what I mean? So much more confident. (Claps hands at end of video.)"
+  },
+  "events": [
+    {"time": "1:28", "codes": ["I-GAS"]},
+    {"time": "1:52", "codes": ["I-SLOW"]},
+    {"time": "3:26", "codes": ["W-2FAST"]},
+    {"time": "7:36", "codes": ["W-DRUK"]}
+  ]
+}
