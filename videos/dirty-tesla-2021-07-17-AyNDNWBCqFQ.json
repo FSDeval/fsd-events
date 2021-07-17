@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-07-17",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=AyNDNWBCqFQ",
+    "video-length": "6:51",
+    "video-title": "FSD Beta 9 Reroutes in Downtown Ann Arbor"
+  },
+  "events": [
+    {"time": "2:00", "codes": ["W-YSTOP"]},
+    {"time": "2:57", "codes": ["D-D"]},
+    {"time": "4:00", "codes": ["D-D"]},
+    {"time": "4:19", "codes": ["D-D"]},
+    {"time": "4:29", "codes": ["D-D"]},
+    {"time": "4:46", "codes": ["D-D"]},
+    {"time": "5:29", "codes": ["I-GAS"]},
+    {"time": "5:51", "codes": ["D-D"]},
+    {"time": "6:00", "codes": ["D-C"]}
+  ]
+}

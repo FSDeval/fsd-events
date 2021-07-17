@@ -5,13 +5,18 @@
     "location": "",
     "fsd-version": "9.0 (2021.4.18.12)",
     "video-link": "https://www.youtube.com/watch?v=UE714SLCJr0",
-    "video-length": "5:28"
+    "video-length": "5:28",
+    "title": "Model 3 - Beta FSD 9 - Test Loop 2 - 2021.4.18.12 - 10 July 2021",
+    "comment": "night time"
   },
   "events": [
     {"time": "0:23", "codes": ["I-GAS"]},
     {"time": "1:57", "codes": ["I-SLOW"]},
+    {"time": "2:18", "codes": ["W-YSTOP"]},
+    {"time": "2:25", "codes": ["W-PWWAY"]},
     {"time": "2:51", "codes": ["I-FAST"]},
     {"time": "3:11", "codes": ["W-BLINK"]},
+    {"time": "3:26", "codes": ["W-PWWAY"]},
     {"time": "3:37", "codes": ["I-FAST"]},
     {"time": "3:58", "codes": ["I-GAS"]},
     {"time": "4:18", "codes": ["W-BLINK"]},

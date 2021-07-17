@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "user": "AI Addict",
+    "date": "2021-07-16",
+    "location": "Cupertino",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=EJGbC1fWZ-k",
+    "video-length": "5:23",
+    "video-title": "[FSD Beta 9] Apple HQ (Underground)"
+  },
+  "events": [
+    {"time": "0:20", "codes": ["I-SLOW"]},
+    {"time": "0:24", "codes": ["D"]},
+    {"time": "0:39", "codes": ["W-BLINK"]},
+    {"time": "0:50", "codes": ["I-SLOW"]},
+    {"time": "0:55", "codes": ["D-D"]},
+    {"time": "1:26", "codes": ["I-SLOW"]},
+    {"time": "1:31", "codes": ["W-BLINK"]},
+    {"time": "1:40", "codes": ["I-SLOW"]},
+    {"time": "1:55", "codes": ["D-D"]},
+    {"time": "2:23", "codes": ["W"], "comment": "wipers"},
+    {"time": "4:12", "codes": ["D-D"]},
+    {"time": "5:05", "codes": ["D-D"]}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-03-04",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=ekQ8cZFx5Ns",
+    "video-length": "9:01",
+    "video-title": "Model 3 - Beta FSD 8.2 - Round trip to Grocery Store - 2021.4.11.1 - 4 March 2021"
+  },
+  "events": [
+    {"time": "0:31", "codes": ["I-SLOW"]},
+    {"time": "5:05", "codes": ["D-D"]},
+    {"time": "7:38", "codes": ["W-DRUNK"]},
+    {"time": "8:37", "codes": ["D-D"]}
+  ]
+}

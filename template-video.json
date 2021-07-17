@@ -5,10 +5,10 @@
     "location": "",
     "fsd-version": "9.0 (2021.4.18.12)",
     "video-link": "",
-    "video-length": "mm:ss"
+    "video-length": "mm:ss",
+    "video-title": ""
   },
   "events": [
-    {"time": "mm:ss", "codes": ["CODE1"]},
-    {"time": "mm:ss", "codes": ["CODE2", "CODE3"]}
+    {"time": "mm:ss", "codes": ["CODE1"]}
   ]
 }
