@@ -5,7 +5,9 @@
     "location": "",
     "fsd-version": "9.0 (2021.4.18.12)",
     "video-link": "https://www.youtube.com/watch?v=sc_KZTpp1LU",
-    "video-length": "9:52"
+    "video-length": "9:52",
+    "video-title": "Model 3 - Beta FSD 9 - Test Loop 1 - 2021.4.18.12 - 10 July 2021",
+    "comment": "confident in its acceleration; smooth; very confident into this left turn lane; ooh very confident left turn here"
   },
   "events": [
     {"time": "0:58", "codes": ["W-YSTOP", "I-GAS"]},
