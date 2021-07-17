@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "user": "Trevor Mahlmann",
+    "date": "2021-07-10",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=8H6ah2waudY",
+    "video-length": "40:25",
+    "video-title": "Tesla FSD Beta V9: First Night Drive! (2021.4.18.12)",
+    "comment": "night time"
+  },
+  "events": [
+    {"time": "2:10", "codes": ["W"], "comment": "spurious lane change, back to original lane"},
+    {"time": "5:12", "codes": ["W-DRUNK"]},
+    {"time": "5:59", "codes": ["I-GAS"]},
+    {"time": "7:01", "codes": ["I-GAS"]},
+    {"time": "7:13", "codes": ["D-D"]},
+    {"time": "8:29", "codes": ["D"]},
+    {"time": "8:53", "codes": ["D-D"]},
+    {"time": "9:31", "codes": ["D-D"]},
+    {"time": "11:13", "codes": ["D-D"]},
+    {"time": "12:07", "codes": ["I-GAS"]},
+    {"time": "12:55", "codes": ["D-D"]},
+    {"time": "13:16", "codes": ["I-GAS"]},
+    {"time": "14:49", "codes": ["D-D"]},
+    {"time": "14:58", "codes": ["I-GAS"]},
+    {"time": "16:20", "codes": ["I-GAS"]},
+    {"time": "18:56", "codes": ["D-D"]},
+    {"time": "19:43", "codes": ["D-D"]},
+    {"time": "19:56", "codes": ["D-D"]},
+    {"time": "20:09", "codes": ["I-GAS"]},
+    {"time": "20:24", "codes": ["I-SLOW"]},
+    {"time": "22:20", "codes": ["D-D"]},
+    {"time": "26:10", "codes": ["I-GAS"]},
+    {"time": "26:37", "codes": ["I-FAST"]},
+    {"time": "28:37", "codes": ["W-CLI"]},
+    {"time": "30:36", "codes": ["I-GAS"]},
+    {"time": "32:37", "codes": ["I-GAS"]}
+  ]
+}
