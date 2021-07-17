@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-01-29",
+    "location": "",
+    "fsd-version": "8.1 (2021.48.35.7)",
+    "video-link": "https://www.youtube.com/watch?v=MaJCYYiDzQQ",
+    "video-length": "3:43",
+    "video-title": "Model 3 - Beta FSD - Run to grocery store in the rain - 2020.48.35.7 - 28 Jan 2021",
+    "comment": "heavy rain, night"
+  },
+  "events": [
+    {"time": "2:28", "codes": ["D-D"]},
+    {"time": "3:30", "codes": ["D-D"]}
+  ]
+}
