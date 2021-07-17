@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-01-30",
+    "location": "",
+    "fsd-version": "8.1 (2020.48.35.7)",
+    "video-link": "https://www.youtube.com/watch?v=8PRXjbGxQ68",
+    "video-length": "14:29",
+    "video-title": "Model 3 - Beta FSD - Drive to Target - 2020.48.35.7 - 30 January 2021"
+  },
+  "events": [
+    {"time": "2:22", "codes": ["W-DRUNK"]},
+    {"time": "4:03", "codes": ["I-GAS"]},
+    {"time": "5:44", "codes": ["I-GAS"]},
+    {"time": "13:50", "codes": ["W-DRUNK"]}
+  ]
+}
