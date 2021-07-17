@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-03-04",
+    "location": "",
+    "fsd-version": "8.2 (2021.4.11.1)",
+    "video-link": "https://www.youtube.com/watch?v=Xs5QSLM8_oU",
+    "video-length": "9:30",
+    "video-title": "Model 3 - Beta FSD 8.2 - Test Loop 1, Next Day - 2021.4.11.1 - 4 March 2021"
+  },
+  "events": [
+    {"time": "0:28", "codes": ["I-SLOW"]},
+    {"time": "2:07", "codes": ["I-SLOW"]},
+    {"time": "2:58", "codes": ["W-2FAST"]},
+    {"time": "3:25", "codes": ["W"], "comment": "stops too far from stop sign"},
+    {"time": "3:56", "codes": ["D-C"]},
+    {"time": "5:35", "codes": ["W-YSLOW"]},
+    {"time": "7:51", "codes": ["W-DRUNK"]}
+  ]
+}
