@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2020-12-31",
+    "location": "Chicago",
+    "fsd-version": "7.9 (2020.48.26.1)",
+    "video-link": "https://www.youtube.com/watch?v=Fn5YbMO8x2I",
+    "video-length": "10:00",
+    "video-title": "FSD Beta 9 - 2020.48.26.1 - Quick Drive around Chicago"
+  },
+  "events": [
+    {"time": "2:09", "codes": ["I-FAST"]},
+    {"time": "3:58", "codes": ["I-GAS"]},
+    {"time": "4:13", "codes": ["D-D"], "comment": "car about to drive around truck into incoming lane, but there is an incoming car driving at slow speed"},
+    {"time": "4:33", "codes": ["I-FAST"]},
+    {"time": "5:36", "codes": ["I-SLOW"]},
+    {"time": "5:38", "codes": ["D-D"], "comment": "there is ice on road, and driver does not trust car"},
+    {"time": "7:19", "codes": ["W-YSTOP"]},
+    {"time": "7:35", "codes": ["D-D"], "comment": "car was very close to parked bus when driving around it"}
+  ]
+}
