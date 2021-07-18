@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-07-17",
+    "location": "Chicago, Downtown",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=o39oFeDUN1I",
+    "video-length": "18:32",
+    "video-title": "Can FSD V9 Take On Chicago Downtown? | Metro, Construction, Bus Lane | 2021.4.18.12 FSD V9"
+  },
+  "events": [
+    {"time": "2:07", "codes": ["W-YSLOW"]},
+    {"time": "3:08", "codes": ["W"], "comment": "incoming car flashes headlights"},
+    {"time": "6:06", "codes": ["D-D"]},
+    {"time": "7:56", "codes": ["D-C"]},
+    {"time": "8:51", "codes": ["W-DRUNK"]},
+    {"time": "9:03", "codes": ["W-DRUNK", "D-D"]},
+    {"time": "10:33", "codes": ["W-DRUNK"]},
+    {"time": "12:35", "codes": ["W-DRUNK"]},
+    {"time": "13:20", "codes": ["D-D"]},
+    {"time": "14:31", "codes": ["D-D"]},
+    {"time": "16:39", "codes": ["D-D"]},
+    {"time": "16:53", "codes": ["W-YSTOP"]},
+    {"time": "17:02", "codes": ["D-D"]},
+    {"time": "17:28", "codes": ["D-D"]}
+  ]
+}
