@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-01-29",
+    "location": "Chicago, Downtown",
+    "fsd-version": "8.1 (2021.48.35.7)",
+    "video-link": "https://www.youtube.com/watch?v=4_dxHWopaFo",
+    "video-length": "12:42",
+    "video-title": "FSD Beta 8.1 - 2020.48.35.7 - Downtown Chicago"
+  },
+  "events": [
+    {"time": "1:37", "codes": ["W-YSLOW"]},
+    {"time": "1:44", "codes": ["D-D"]},
+    {"time": "2:06", "codes": ["I-GAS"]},
+    {"time": "3:10", "codes": ["D-D"]},
+    {"time": "3:23", "codes": ["I-FAST"]},
+    {"time": "3:45", "codes": ["W-DRUNK"]},
+    {"time": "4:45", "codes": ["W"], "comment": "car steps onto other lane"},
+    {"time": "6:06", "codes": ["I-FAST"]},
+    {"time": "6:23", "codes": ["D-D"], "comment": "car in wrong lane -> car misses turn"},
+    {"time": "6:42", "codes": ["I-FAST"]},
+    {"time": "7:41", "codes": ["D-D"], "comment": "car disobeys 'turn left on left arrow only'"},
+    {"time": "8:15", "codes": ["D-D"], "comment": "driver needs to back up due to previous event"},
+    {"time": "9:15", "codes": ["D-D"], "comment": "car stops in wrong lane, too far back to stop line"},
+    {"time": "9:36", "codes": ["I-FAST"]},
+    {"time": "10:05", "codes": ["I-GAS"]},
+    {"time": "11:16", "codes": ["I-FAST"]}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-19",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=W3Ill_OYZTI",
+    "video-length": "10:49",
+    "video-title": "FSDBeta 9.0 - 2021.4.18.12 - Unprotected Obscured Left Turns with Drone View"
+  },
+  "events": [
+    {"time": "1:14", "codes": ["W-MT"]},
+    {"time": "2:44", "codes": ["W-MT"]},
+    {"time": "4:09", "codes": ["W-MT"]},
+    {"time": "7:00", "codes": ["W-CWWAY"]},
+    {"time": "7:10", "codes": ["W-MT"]},
+    {"time": "7:12", "codes": ["W-DRUNK"]},
+    {"time": "7:17", "codes": ["D-C"]},
+    {"time": "7:38", "codes": ["D-D"], "comment": "car unable to make u-turn"},
+    {"time": "8:39", "codes": ["W-PWWAY"]},
+    {"time": "8:55", "codes": ["D-D"], "comment": "car cannot see incoming traffic"},
+    {"time": "9:08", "codes": ["W-CWWAY"]},
+    {"time": "9:34", "codes": ["W-MT"]}
+  ]
+}

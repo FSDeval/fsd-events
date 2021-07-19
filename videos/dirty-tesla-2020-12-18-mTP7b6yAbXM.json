@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2020-12-18",
+    "location": "",
+    "fsd-version": "7.7 (2020.48.10.1)",
+    "video-link": "https://www.youtube.com/watch?v=mTP7b6yAbXM",
+    "video-length": "18:19",
+    "video-title": "Tesla Self Driving Beta Goes Underground, Parallel Parking, Left Turns Update 2020.48.10.1 FSDBeta 7"
+  },
+  "events": [
+    {"time": "0:28", "codes": ["I-SLOW"]},
+    {"time": "0:49", "codes": ["I-FAST"]},
+    {"time": "1:53", "codes": ["D-D"], "comment": "car turns too close to the curb"},
+    {"time": "2:35", "codes": ["D-D"], "comment": "car is creeping towards pedestrian crossing in front"},
+    {"time": "2:55", "codes": ["I-GAS"]},
+    {"time": "3:12", "codes": ["D-D"], "comment": "car crosses double yellow line"},
+    {"time": "3:25", "codes": ["W-DRUNK"]},
+    {"time": "3:42", "codes": ["W-YSTOP"]},
+    {"time": "3:57", "codes": ["W"], "comment": "car drives over small tree branches"},
+    {"time": "7:07", "codes": ["I-SLOW"]},
+    {"time": "7:14", "codes": ["D-C"]},
+    {"time": "7:33", "codes": ["I-SLOW"]},
+    {"time": "7:45", "codes": ["D-D"], "comment": "car about to drive straight into concrete wall in underground parking garage"},
+    {"time": "8:05", "codes": ["I-SLOW"]},
+    {"time": "8:13", "codes": ["D-D"], "comment": "car getting close to concrete wall when turning in underground parking garage"},
+    {"time": "8:24", "codes": ["I-SLOW"]},
+    {"time": "8:55", "codes": ["D-D"], "comment": "car about to drive straight into concrete wall in underground parking garage"},
+    {"time": "9:01", "codes": ["I-SLOW"]},
+    {"time": "9:09", "codes": ["D-D"], "comment": "car about to drive straight into concrete wall in underground parking garage"},
+    {"time": "9:22", "codes": ["I-SLOW"]},
+    {"time": "11:01", "codes": ["D-D"], "comment": "car needlessly drives into bi-directional turning lane"},
+    {"time": "12:45", "codes": ["D-D"], "comment": "car tries to switch into parking lane"},
+    {"time": "13:00", "codes": ["D-D"], "comment": "car turns left instead of continuing straight as per map"},
+    {"time": "13:34", "codes": ["D-D"], "comment": "car about to hit car in front while getting out of parallel park"},
+    {"time": "14:00", "codes": ["D-D"], "comment": "car about to hit car in front while getting out of parallel park"},
+    {"time": "14:36", "codes": ["I-SLOW"]},
+    {"time": "15:02", "codes": ["D-D"], "comment": "car turns too close to the curb"},
+    {"time": "15:48", "codes": ["W-RED"]}
+  ]
+}
