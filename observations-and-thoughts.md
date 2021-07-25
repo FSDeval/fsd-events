@@ -1,11 +1,9 @@
 # Observations and Thoughts
 
-- Drivers tend to underestimate the number of disengagements
-    - Example: Brandonee916 [says](https://youtu.be/2syXnikGlYQ?t=1641) during one of his drives: "As you guys have noticed, I actually
-      haven't disengaged at all.  Up until those two roundabouts [at [16:07](https://youtu.be/2syXnikGlYQ?t=967) and [16:37](https://youtu.be/2syXnikGlYQ?t=997)],
-      there's been no disengagements. I haven't disengaged once. Other than those two roundabouts."
-      Actually, the driver had disengaged twice before the two roundabouts,
-      at [12:16](https://youtu.be/2syXnikGlYQ?t=736) and [15:31](https://youtu.be/2syXnikGlYQ?t=931).
+- Drivers tend to underestimate the number of disengagements, or disregard interventions
+    - Examples:
+        - Brandonee916 [says](https://youtu.be/2syXnikGlYQ?t=1641) during one of his drives: "As you guys have noticed, I actually haven't disengaged at all.  Up until those two roundabouts [at [16:07](https://youtu.be/2syXnikGlYQ?t=967) and [16:37](https://youtu.be/2syXnikGlYQ?t=997)], there's been no disengagements. I haven't disengaged once. Other than those two roundabouts." Actually, the driver had disengaged twice before the two roundabouts, at [12:16](https://youtu.be/2syXnikGlYQ?t=736) and [15:31](https://youtu.be/2syXnikGlYQ?t=931).
+        - HyperChange has a [video](https://www.youtube.com/watch?v=EtPGTOJ5Nks) titled "Perfect Tesla FSD V9 Drive, 0 Interventions!!! 💯" in which they increase the speed 12 times, decrease the speed 6 times, and press the accelerator twice.
 - Some drivers feel sad or become silent when too many disengagements
     - Examples:
         - TOSV (3 times): "it's a bit of a bummer" (1st DD, 2nd DD, 8:15)
