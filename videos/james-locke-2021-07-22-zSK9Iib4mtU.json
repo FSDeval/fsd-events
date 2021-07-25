@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-07-22",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=zSK9Iib4mtU",
+    "video-length": "13:02",
+    "video-title": "Model 3 - Beta FSD V9 - Drive to the Apple Store Valencia - 2021.4.18.12 - 22 July 2021"
+  },
+  "events": [
+    {"time": "7:54", "codes": ["I-TURN"]},
+    {"time": "11:42", "codes": ["I-TURN"]},
+    {"time": "12:17", "codes": ["D-D"], "comment": "car drives toward median"},
+    {"time": "12:38", "codes": ["D-D"], "comment": "pedestrians are about to cross"}
+  ]
+}
