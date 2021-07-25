@@ -7,10 +7,11 @@
       Actually, the driver had disengaged twice before the two roundabouts,
       at [12:16](https://youtu.be/2syXnikGlYQ?t=736) and [15:31](https://youtu.be/2syXnikGlYQ?t=931).
 - Some drivers feel sad or become silent when too many disengagements
-    - Example: TOSV (3 times): "it's a bit of a bummer" (1st DD, 2nd DD, 8:15)
-    - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=472): "It's a bummer. It's really a bummer."
-- They are the less likely to post videos
-    - End or one of oissa or dirty videos??
+    - Examples:
+        - TOSV (3 times): "it's a bit of a bummer" (1st DD, 2nd DD, 8:15)
+        - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=472): "It's a bummer. It's really a bummer."
+    - They are the less likely to post videos
+        - End or one of oissa or dirty videos??
 - Some drivers avoid disengagements which is sometimes rude towards other drivers or pedestrians, or miss turns:
     - Example: TOSV at 17:36
     - Brandon and Amazon van
@@ -20,3 +21,5 @@
 - Need for better communication:
     - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=70): "It doesn't really inspire too much confidence when it doesn't say anything on the screen,
       you know, 'yielding to traffic' or 'slowing for traffic to find a gap' or anything."
+- FSD Beta testers might tend to embellish FSD Beta's capabilities:
+    - [Jeff K](https://www.youtube.com/watch?v=tK8jNb_jkz0): TODO
