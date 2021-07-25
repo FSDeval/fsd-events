@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "user": "Dirty Tesla",
+    "date": "2021-07-22",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=CZtF2UIjwFc",
+    "video-length": "15:15",
+    "video-title": "Tesla Vision FSD Beta 9 is Still Not Quite Ready for Downtown Ann Arbor..."
+  },
+  "events": [
+    {"time": "1:53", "codes": ["W-TRFL"]},
+    {"time": "2:23", "codes": ["I-GAS"]},
+    {"time": "3:03", "codes": ["D-D"], "comment": "to let pedestrian cross"},
+    {"time": "3:25", "codes": ["W-YSTOP", "I-GAS"]},
+    {"time": "3:53", "codes": ["D-C"]},
+    {"time": "4:15", "codes": ["W-YSTOP"]},
+    {"time": "5:18", "codes": ["D-D"], "comment": "car is creeping out even though a car is clearly coming"},
+    {"time": "5:34", "codes": ["D-D"], "comment": "car too slow in turn, cars are coming"},
+    {"time": "6:15", "codes": ["D-D"], "comment": "car about to go in opposite lane to pass truck turning left"},
+    {"time": "6:27", "codes": ["D-D"], "comment": "car about to go in right lane to pass truck turning left, but car also needs to turn left"},
+    {"time": "6:45", "codes": ["I-SLOW"]},
+    {"time": "6:59", "codes": ["D-D"], "comment": "car about to run into construction cones and hole"},
+    {"time": "7:16", "codes": ["D-D"], "comment": "car waits behind excavator instead of going around to the left"},
+    {"time": "9:50", "codes": ["W-YSTOP"]},
+    {"time": "10:16", "codes": ["D-D"], "comment": "car would have driven over rolled up carpet"},
+    {"time": "10:25", "codes": ["I-SLOW"]},
+    {"time": "11:02", "codes": ["W-YSTOP", "I-GAS"]},
+    {"time": "11:43", "codes": ["I-GAS"]},
+    {"time": "12:37", "codes": ["D-D"], "comment": "car drives toward parked truck"}
+  ]
+}
