@@ -21,5 +21,5 @@
 - Need for better communication:
     - [Trevor Mahlmann](https://youtu.be/xO91orxiG-M?t=70): "It doesn't really inspire too much confidence when it doesn't say anything on the screen,
       you know, 'yielding to traffic' or 'slowing for traffic to find a gap' or anything."
-- FSD Beta testers might tend to embellish FSD Beta's capabilities:
-    - [Jeff K](https://www.youtube.com/watch?v=tK8jNb_jkz0): TODO
+- FSD Beta testers might tend to provide unduly positive coverage of FSD Beta's capabilities:
+    - [Jeff K](https://www.youtube.com/watch?v=tK8jNb_jkz0): "Because I'm a board member of the [Tesla Arizona] club. Initially the beta testers were very sporadic and kind of whoever. Nobody knew there was no rhyme or reason who got to be a beta tester. And you know they just would pick people kind of seemingly at random. But with this release, they want people who were more kind of you know Tesla fans and the people that weren't gonna you know post videos of it like running down you know barricades like it just about did [see 8:01]. They wanted more positive press to get out there before a bunch of negative press about it. So they were very selective and they just wanted club leadership to have it."
