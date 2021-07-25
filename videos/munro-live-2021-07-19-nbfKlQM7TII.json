@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "user": "Munro Live",
+    "date": "2021-07-19",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=nbfKlQM7TII",
+    "video-length": "18:00",
+    "video-title": "Sandy checks out Tesla's Full Self-Driving Beta Version 9"
+  },
+  "events": [
+    {"time": "3:23", "codes": ["I-SLOW"]},
+    {"time": "3:40", "codes": ["I-GAS"]},
+    {"time": "7:02", "codes": ["I-GAS"]},
+    {"time": "14:07", "codes": ["W-DRUNK"]},
+    {"time": "14:45", "codes": ["W-CLI"]}
+  ]
+}
