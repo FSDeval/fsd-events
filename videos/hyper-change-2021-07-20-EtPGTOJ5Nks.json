@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "user": "HyperChange",
+    "date": "2021-07-20",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=EtPGTOJ5Nks",
+    "video-length": "16:34",
+    "video-title": "Perfect Tesla FSD V9 Drive, 0 Interventions!!!"
+  },
+  "events": [
+    {"time": "0:34", "codes": ["I-FAST"]},
+    {"time": "1:31", "codes": ["I-FAST"]},
+    {"time": "1:57", "codes": ["W-YSLOW"], "comment": "car decelerates from 35 to 19 mph, but new speed limit is 25"},
+    {"time": "2:18", "codes": ["I-FAST"]},
+    {"time": "3:19", "codes": ["I-GAS"]},
+    {"time": "3:27", "codes": ["I-FAST"]},
+    {"time": "4:03", "codes": ["I-FAST"]},
+    {"time": "4:28", "codes": ["I-FAST"]},
+    {"time": "4:32", "codes": ["W-YSTOP"]},
+    {"time": "5:34", "codes": ["I-GAS"]},
+    {"time": "5:41", "codes": ["I-FAST"]},
+    {"time": "5:54", "codes": ["I-SLOW"]},
+    {"time": "6:03", "codes": ["I-FAST"]},
+    {"time": "6:51", "codes": ["I-FAST"]},
+    {"time": "8:47", "codes": ["W-YSTOP", "I-FAST"]},
+    {"time": "9:32", "codes": ["I-SLOW"]},
+    {"time": "9:40", "codes": ["I-FAST"]},
+    {"time": "11:22", "codes": ["W-DRUNK"]},
+    {"time": "14:01", "codes": ["W-DRUNK"], "comment": "left turn from right lane"},
+    {"time": "14:27", "codes": ["I-FAST"]},
+    {"time": "14:55", "codes": ["I-SLOW"]},
+    {"time": "15:04", "codes": ["I-SLOW"]},
+    {"time": "15:41", "codes": ["I-SLOW"]},
+    {"time": "15:59", "codes": ["I-SLOW"]}
+  ]
+}

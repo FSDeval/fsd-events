@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-07-19",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=g7QAeyFqSJU",
+    "video-length": "15:44",
+    "video-title": "Model 3 - Beta FSD 9 - Drive to force 180 degree turn and 2 attempts - 2021.4.18.12 - 17 July 21"
+  },
+  "events": [
+    {"time": "0:34", "codes": ["I-GAS"]},
+    {"time": "0:46", "codes": ["I-SLOW"]},
+    {"time": "0:55", "codes": ["W-BLINK"]},
+    {"time": "4:36", "codes": ["W-YSLOW"]},
+    {"time": "8:39", "codes": ["W-SWL"]},
+    {"time": "9:02", "codes": ["D-D"], "comment": "car drives close to other car during turn"}
+  ]
+}

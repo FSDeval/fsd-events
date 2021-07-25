@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-19",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=pGrKpdn7upc",
+    "video-length": "12:28",
+    "video-title": "FSDBeta 9.0 - 2021.4.18.12 - Navigation Decision for Left Turn .. in the Rain."
+  },
+  "events": [
+    {"time": "2:59", "codes": ["I-GAS"]},
+    {"time": "4:05", "codes": ["W-YSLOW"]},
+    {"time": "7:06", "codes": ["W-YSLOW"]},
+    {"time": "8:18", "codes": ["I-GAS"]}
+  ]
+}

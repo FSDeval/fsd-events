@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-07-21",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=lolLY8wgU2E",
+    "video-length": "10:20",
+    "video-title": "Can FSD V9 Navigate An Industrial Zone? | Unmarked road, Railroad crossing | 2021.4.18.12 FSD V9"
+  },
+  "events": [
+    {"time": "0:53", "codes": ["W-YSTOP"]},
+    {"time": "2:02", "codes": ["W"], "comment": "stops too far after stop sign"},
+    {"time": "2:15", "codes": ["W-YSTOP"]},
+    {"time": "2:29", "codes": ["W-DRUNK"]},
+    {"time": "3:45", "codes": ["W-YSTOP"]},
+    {"time": "7:34", "codes": ["W-YSTOP"]},
+    {"time": "2:15", "codes": ["W-YSTOP"], "comment": "on train tracks"}
+  ]
+}
