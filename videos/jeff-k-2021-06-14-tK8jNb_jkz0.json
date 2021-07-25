@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "user": "Jeff K",
+    "date": "2021-06-14",
+    "location": "",
+    "fsd-version": "8.2",
+    "video-link": "https://www.youtube.com/watch?v=tK8jNb_jkz0",
+    "video-length": "17:17",
+    "video-title": "Tesla FSD Beta test in Marana Arizona"
+  },
+  "events": [
+    {"time": "2:40", "codes": ["I-GAS"]},
+    {"time": "4:36", "codes": ["D-D"], "comment": "car slows down in right lane before making a left turn"},
+    {"time": "6:31", "codes": ["W-PWWAY"]},
+    {"time": "7:16", "codes": ["I-GAS"]},
+    {"time": "7:35", "codes": ["I-GAS"]},
+    {"time": "8:01", "codes": ["D-D"], "comment": "car about to run into road signs at end of road"},
+    {"time": "8:51", "codes": ["I-GAS"]},
+    {"time": "11:31", "codes": ["I-GAS"]},
+    {"time": "11:41", "codes": ["D-D"], "comment": "car would confuse other driver about its intentions through misuse of blinker"},
+    {"time": "12:34", "codes": ["W-YSTOP"]},
+    {"time": "12:45", "codes": ["D-D"], "comment": "car would not let other driver out of parking space"}
+  ]
+}

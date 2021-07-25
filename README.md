@@ -8,13 +8,13 @@ FSD9 so far seems to be an improvement over FSD8.2. Since the release of FSD9, d
 
 version | videos | drivers | length | events | interventions | time between events | time between interventions
 --- | --- | --- | --- | --- | --- | --- | --- 
-Overall | 95 | 14 | 23:21:51 | 921 | 598 | 1m31s | 2m20s
+Overall | 100 | 16 | 1 day, 0:54:58 | 976 | 635 | 1m31s | 2m21s
 7.7 | 1 | 1 | 0:18:19 | 28 | 24 | 39s | 45s
 7.8 | 1 | 1 | 0:31:24 | 44 | 32 | 42s | 58s
 7.9 | 1 | 1 | 0:10:00 | 8 | 7 | 1m15s | 1m25s
 8.1 | 8 | 3 | 1:42:11 | 66 | 40 | 1m32s | 2m33s
-8.2 | 37 | 10 | 9:37:38 | 371 | 249 | 1m33s | 2m19s
-9.0 | 47 | 14 | 11:02:19 | 404 | 246 | 1m38s | 2m41s
+8.2 | 38 | 11 | 9:54:55 | 382 | 258 | 1m33s | 2m18s
+9.0 | 51 | 15 | 12:18:09 | 448 | 274 | 1m38s | 2m41s
 
 ## Methodology
 
@@ -64,12 +64,14 @@ W-CLI | car changes lane in intersection
 W-CWWAY | car drives into incoming lane
 W-DPL | car drives in parking lane
 W-DRUNK | car acts drunk
+W-MS | car misses stop
 W-MT | car misses turn
 W-MUST | car drives straight through in a turn-only lane
 W-PWWAY | car partially drives into incoming lane
 W-RED | car crosses on red
 W-SA | car stops abruptly
 W-SWL | car crosses solid white line
+W-TRFL | car turns right from left lane
 W-TWL | car drives into wrong lane (of correct direction)
 W-YSLOW | car slows down unnecessarily
 W-YSTOP | car stops unnecessarily
