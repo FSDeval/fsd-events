@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "user": "Frenchie",
+    "date": "2021-07-25",
+    "location": "Chicago",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=cNtofFjrZ5g",
+    "video-length": "10:13",
+    "video-title": "Testing FSD In A Residential Area | Blind turn, Speed bumps & Parked cars | 2021.4.18.12 FSD V9"
+  },
+  "events": [
+    {"time": "5:32", "codes": ["D-D"], "comment": "slow down for speed bump that might not be mapped"}
+  ]
+}

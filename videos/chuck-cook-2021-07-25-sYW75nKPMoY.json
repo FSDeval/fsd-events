@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-25",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=sYW75nKPMoY",
+    "video-length": "24:51",
+    "video-title": "FSDBeta 9.0 - 2021.4.18.12 - Honey Jar Run and Apiary Tour"
+  },
+  "events": [
+    {"time": "0:55", "codes": ["D-D"], "comment": "car about to run into neighbor's yard trash"},
+    {"time": "3:46", "codes": ["D-D"], "comment": "after asking driver to tap accelerator to turn at intersection, car drives straight ahead, and there's a car behind"},
+    {"time": "12:08", "codes": ["W-YSTOP"]},
+    {"time": "12:40", "codes": ["D-D"], "comment": "car too slow in parking lot"},
+    {"time": "13:28", "codes": ["D-D"], "comment": "car aims right for left turn"},
+    {"time": "18:39", "codes": ["W-YSLOW"]},
+    {"time": "20:00", "codes": ["W-SA"]},
+    {"time": "20:25", "codes": ["D-D"], "comment": "car is waiting for green light too far back to correct stop line"},
+    {"time": "20:41", "codes": ["D-D"], "comment": "car is creeping on red light"},
+    {"time": "23:10", "codes": ["D-D"], "comment": "car does not slow down for pickup coming out of driveway"}
+  ]
+}

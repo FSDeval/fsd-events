@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-07-22",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=DQ2fFqfM3bw",
+    "video-length": "8:55",
+    "video-title": "Model 3 - Beta FSD v9 - Arroyo Seco Junior High - 2021.4.18.12 - 22 July 2021"
+  },
+  "events": [
+    {"time": "0:43", "codes": ["I-GAS"]},
+    {"time": "0:51", "codes": ["I-SLOW"]},
+    {"time": "2:49", "codes": ["I-FAST"]},
+    {"time": "5:12", "codes": ["W-YSLOW", "I-GAS"]},
+    {"time": "7:49", "codes": ["W-YSTOP", "I-GAS"]},
+    {"time": "8:20", "codes": ["I-GAS"]}
+  ]
+}
