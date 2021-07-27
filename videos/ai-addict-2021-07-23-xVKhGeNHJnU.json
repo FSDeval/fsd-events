@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "user": "AI Addict",
+    "date": "2021-07-23",
+    "location": "",
+    "fsd-version": "9.0 (2021.4.18.12)",
+    "video-link": "https://www.youtube.com/watch?v=xVKhGeNHJnU",
+    "video-length": "12:09",
+    "video-title": "[FSD Beta 9] Downtown San Jose"
+  },
+  "events": [
+    {"time": "1:22", "codes": ["W-DRUNK"]},
+    {"time": "2:42", "codes": ["D-D"], "comment": "driver nervous car might have curbed the wheel"},
+    {"time": "4:12", "codes": ["W-DRUNK"]},
+    {"time": "4:47", "codes": ["D-D"], "comment": "car was driving towards on-street restaurant partition"},
+    {"time": "5:16", "codes": ["W"]},
+    {"time": "6:02", "codes": ["I-GAS"], "comment": "confusion of responsibilities between driver and car"},
+    {"time": "6:07", "codes": ["D-D"], "comment": "car would have run red light (at low speed, without any incoming traffic)"},
+    {"time": "7:17", "codes": ["W-TRFL"]},
+    {"time": "7:53", "codes": ["I-GAS"]},
+    {"time": "8:47", "codes": ["D-D"], "comment": "car would cut pedestrians and/or driven on railroad path"},
+    {"time": "9:07", "codes": ["W-DRUNK"]},
+    {"time": "9:21", "codes": ["W-AVOID"], "comment": "car does not stop for pedestrians about to cross pedestrian crossing, driver does not notice nor disengage"},
+    {"time": "9:23", "codes": ["W-DRUNK"]},
+    {"time": "10:06", "codes": ["C-D"]},
+    {"time": "10:24", "codes": ["W"], "comment": "abrupt stop"}
+  ]
+}
