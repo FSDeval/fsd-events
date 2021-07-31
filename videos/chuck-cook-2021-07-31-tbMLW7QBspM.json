@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-31",
+    "location": "",
+    "fsd-version": "9.1 (2021.4.18.13)",
+    "video-link": "https://www.youtube.com/watch?v=tbMLW7QBspM",
+    "video-length": "11:47",
+    "video-title": "FSDBeta 9.1 - 2021.4.18.13 - Forward Facing Unprotected Left Turns with Drone View - Much Better"
+  },
+  "events": [
+    {"time": "0:34", "codes": ["D-D"], "comment": "car about to turn left in front of oncoming cars"},
+    {"time": "1:54", "codes": ["D-D"], "comment": "car about to turn left in front of oncoming cars"},
+    {"time": "5:54", "codes": ["D-D"], "comment": "car about to turn left in front of oncoming cars"},
+    {"time": "7:27", "codes": ["D-D"], "comment": "car about to turn left in front of oncoming cars"},
+    {"time": "8:34", "codes": ["D-D"], "comment": "car about to turn left in front of oncoming cars"}
+  ]
+}
