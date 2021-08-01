@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-31",
+    "location": "",
+    "fsd-version": "9.1 (2021.4.18.13)",
+    "video-link": "https://www.youtube.com/watch?v=7rWQbkgp7Q8",
+    "video-length": "26:38",
+    "video-title": "FSDBeta 9.1 - 2021.4.18.13 - First Impressions Memorial Park Drive for Comparison to Previous v9."
+  },
+  "events": [
+    {"time": "2:28", "codes": ["W-YSLOW"]},
+    {"time": "5:41", "codes": ["D-D"], "comment": "car would have crossed on red"},
+    {"time": "6:13", "codes": ["D-D"], "comment": "car would have crossed on red"},
+    {"time": "6:53", "codes": ["W-YSTOP"]},
+    {"time": "7:52", "codes": ["D-D"], "comment": "car would have crossed on red"},
+    {"time": "8:29", "codes": ["W-BLINK"]},
+    {"time": "8:42", "codes": ["W-BLINK"]},
+    {"time": "9:02", "codes": ["W-BLINK"]},
+    {"time": "12:25", "codes": ["I-GAS"]},
+    {"time": "21:24", "codes": ["W-DRUNK"]},
+    {"time": "22:58", "codes": ["I-GAS"]}
+  ]
+}
