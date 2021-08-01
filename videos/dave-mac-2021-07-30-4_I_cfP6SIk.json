@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "user": "Dave Mac",
+    "date": "2021-07-31",
+    "location": "",
+    "fsd-version": "9.1 (2021.4.18.13)",
+    "video-link": "https://www.youtube.com/watch?v=4_I_cfP6SIk",
+    "video-length": "8:57",
+    "video-title": "FSD Beta V9.1 First Impressions to Costco 2021.4.18.13"
+  },
+  "events": [
+    {"time": "1:51", "codes": ["I-GAS"]},
+    {"time": "2:13", "codes": ["W-DRUNK"]},
+    {"time": "8:06", "codes": ["I-GAS"]},
+    {"time": "8:24", "codes": ["W-DRUNK"]}
+  ]
+}
