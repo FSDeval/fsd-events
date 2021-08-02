@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "user": "James Locke",
+    "date": "2021-08-02",
+    "location": "",
+    "fsd-version": "9.1 (2021.4.18.13)",
+    "video-link": "https://www.youtube.com/watch?v=5FAajxdb1uI",
+    "video-length": "9:02",
+    "video-title": "Model 3 - Beta FSD 9.1 - Drive to Arroyo Seco Junior High - 2021.4.18.13 - 2 August 2021"
+  },
+  "events": [
+    {"time": "2:42", "codes": ["I-GAS"]},
+    {"time": "5:28", "codes": ["I-GAS"]}
+  ]
+}
