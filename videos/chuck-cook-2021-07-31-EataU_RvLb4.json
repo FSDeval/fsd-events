@@ -15,6 +15,7 @@
     {"time": "5:58", "codes": ["D-D"], "comment": "car is indecisive and there's a car behind"},
     {"time": "7:15", "codes": ["W-MT"]},
     {"time": "8:48", "codes": ["W-MT"]},
-    {"time": "8:50", "codes": ["D-D"], "comment": "car about to go into middle lane but there is a fast approaching car behind"}
+    {"time": "8:50", "codes": ["D-D"], "comment": "car about to go into middle lane but there is a fast approaching car behind"},
+    {"time": "10:24", "codes": ["I-GAS"]}
   ]
 }
