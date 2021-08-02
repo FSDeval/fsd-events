@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "user": "Chuck Cook",
+    "date": "2021-07-31",
+    "location": "",
+    "fsd-version": "9.1 (2021.4.18.13)",
+    "video-link": "https://www.youtube.com/watch?v=EataU_RvLb4",
+    "video-length": "10:42",
+    "video-title": "FSDBeta 9.1 - 2021.4.18.13 - Unprotected Left Turns with Drone View - Looping behavior"
+  },
+  "events": [
+    {"time": "2:42", "codes": ["W-MT"]},
+    {"time": "4:19", "codes": ["W-MT"]},
+    {"time": "5:47", "codes": ["I-GAS"]},
+    {"time": "5:58", "codes": ["D-D"], "comment": "car is indecisive and there's a car behind"},
+    {"time": "7:15", "codes": ["W-MT"]},
+    {"time": "8:48", "codes": ["W-MT"]},
+    {"time": "8:50", "codes": ["D-D"], "comment": "car about to go into middle lane but there is a fast approaching car behind"}
+  ]
+}
